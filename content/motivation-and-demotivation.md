@@ -23,11 +23,11 @@ description: >-
 
 Rewrite the following review comments to be less demotivating to the person receiving them:
 
-![](../../.gitbook/assets/0.png)
+![](../.gitbook/assets/0.png)
 
 \[Alt text: Wrong. forEach has side-effects. foo.map\(f\) is pure. Extract the function too.\]
 
-![](../../.gitbook/assets/1.png)
+![](../.gitbook/assets/1.png)
 
 \[Alt text: This isn't clean code. Just use a Set\]
 
