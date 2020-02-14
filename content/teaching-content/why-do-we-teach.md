@@ -1,7 +1,7 @@
 ---
 description: >-
   In this introduction module we learn more about our teachers and explore the
-  reason about why we want to be educators.
+  reason about why we want to be educators. (Created by Chris Owen)
 ---
 
 # Why Do We Teach?

@@ -1,7 +1,8 @@
 ---
 description: >-
   Questioning is a key skill for any teacher, in this session we want to explore
-  best practices and learn how to become better inquisitors
+  best practices and learn how to become better inquisitors (Created by Richard
+  Ng)
 ---
 
 # Questioning

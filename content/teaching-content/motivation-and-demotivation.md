@@ -1,5 +1,7 @@
 ---
-description: Learning what motivates and demotivates a student is important
+description: >-
+  Learning what motivates and demotivates a student is important (Created by Ali
+  )
 ---
 
 # Motivation & Demotivation

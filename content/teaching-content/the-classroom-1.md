@@ -1,7 +1,7 @@
 ---
 description: >-
   In this session we'll explore the roles of teachers in the classroom and talk
-  about how to stay engaged during class.
+  about how to stay engaged during class. (Created by Richard Ng)
 ---
 
 # The Classroom

@@ -2,6 +2,7 @@
 description: >-
   Understand the students is important in order to be able to teach them. In
   this session we'll explore how to identify common challenges with students.
+  (Created by Neill Bogie)
 ---
 
 # Empathy
