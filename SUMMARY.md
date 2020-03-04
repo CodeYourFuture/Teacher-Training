@@ -2,6 +2,11 @@
 
 * [Welcome](README.md)
 
+## Roles
+
+* [Lead Teacher](roles/lead-teacher.md)
+* [Assistant Teacher](roles/assistant-teacher.md)
+
 ## Content
 
 * [Why Do We Teach?](content/why-do-we-teach.md)
