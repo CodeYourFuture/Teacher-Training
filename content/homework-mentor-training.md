@@ -62,12 +62,28 @@ Introduce the volunteers to the sign up sheet here:
 
 {% embed url="https://docs.google.com/spreadsheets/d/1f\_RRJ35NsWmhUx6-fFDQSAtiSxmAMw3JRb8yrVu11eM/edit\#gid=0" %}
 
-This sheet is used to coordinate our 
+This sheet is used to coordinate the volunteers and students so they can arrange their sessions. 
 
-### Wrap-up
+### How To Be a Good Mentor \(10 minutes\)
+
+
+
+### Role Play \(10 minutes\)
+
+
+
+### Questions \(10 minutes\)
+
+Leave some time for questions at the end.
+
+Please record these questions in the section below _Frequently Asked Questions_. You should be able to edit this file directly in Github.
+
+### Wrap-up \(5 minutes\)
 
 * Share this document with the attendees so they can look over the notes
 * Encourage them to read the rest of the content on this website
 * Encourage them to explore the content on [docs.codeyourfuture.io](https://docs.codeyourfuture.io)
 * Ask them to sign up to a time over the next week that they would like this mentor a student
+
+## Frequently Asked Questions
 
