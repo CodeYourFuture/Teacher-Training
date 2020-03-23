@@ -14,4 +14,5 @@
 * [Questioning](content/questioning.md)
 * [Empathy](content/empathy.md)
 * [Motivation & Demotivation](content/motivation-and-demotivation.md)
+* [Homework Mentor Training](content/homework-mentor-training.md)
 

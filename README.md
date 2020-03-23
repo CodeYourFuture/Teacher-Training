@@ -22,8 +22,6 @@ This is a living document. Expect it to change and grow over time. If you'd like
   * [https://teachtogether.tech/](https://teachtogether.tech/)
 * Syllabus
   * [https://syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io)
-* Fundamentals
-  * [https://fundamentals.codeyourfuture.io](https://fundamentals.codeyourfuture.io)
 * Docs
   * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
 
