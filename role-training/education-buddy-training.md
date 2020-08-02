@@ -32,7 +32,7 @@ Participants will be able to:
 
 ### Materials
 
-PRESENTATION, VIDEOS AND NOTES
+// TODO - Presentation, Videos and Notes
 
 ## Lesson
 
@@ -54,27 +54,36 @@ At CodeYourFuture, being a mentor means you have a set of core responsibilities
 
 1. Check in with students at least every two weeks and assess understanding
 2. Check and mark homework that students are submitting
-3. Provide feedback on students to the wider group
+3. Provide feedback on students to the wider team
 
-As a buddy, you are assigned three students who are your responsibility for.
+As a buddy, you are assigned three students who are your responsibility for. You should try to have calls with them every week or two weeks and check in consistently with them week to week. As a mentor, you are one of the key people who the students can be accountable to - an important role in a course like ours that requires a lot of self study!
 
-### Motivation
+### Mentoring Sessions
 
-Working out why your student wants to be a programmer is an important step 
-
-### 1-to-1s
-
-A part of your job as a buddy is to have 1-to-1 calls with your students to assess and work out how they're doing in the course. 
+A part of your job as a buddy is to have calls with your students to assess and work out how they're doing in the course. This can be done either as 1-to-1s or group sessions depending on your time commitments, your 
 
 #### Before The Call
 
 Consider getting [Calend.ly](http://calend.ly) or similar so that students can book in times with you that work for them. This will save a significant amount of time when you are trying to work out a time that works for both of you.
 
+It can be helpful if you take a quick look at the weeks content in the [syllabus](https://syllabus.codeyourfuture.io/) to see what the student has been working on that week.
+
 #### During Calls
 
+At the highest level when you speak to your students you should
 
+1. Be finding out if they have submitted the homework for that week
+   1. If they haven't - find out why
+2. Find out how challenging they are finding the work
+3. Investigating their understanding of the concepts covered
 
-#### Assessment
+As you become more experienced taking mentoring calls you will develop your own style and pacing to the sessions. 
+
+Some ways for you to access understand are to 
+
+* Ask the student to talk through some of their most recent homework
+* Ask the student to add a new small feature to their homework
+* Complete a programming challenge \(many of these can be found in the [the syllabus](https://syllabus.codeyourfuture.io/)\)
 
 Throughout the call make notes on the specific areas that your students are not understanding. A useful way for you to describe somebodies understanding is using [Blooms Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/).
 
@@ -92,12 +101,15 @@ A student can possess some of the more advanced skills without having the more b
 5. The student can write a function but does not know how to call it
 6. You ask a student to create a function and they use the wrong syntax
 7. You ask a student to create a function and they do not know where to start
-8. 
 ```
 
-### Feedback To The Team
+### Feeding Back To The Team
 
+Depending on your team you will decide to meet every week or two weeks to discuss the progress that the students are making through the module. Especially earlier in the course it is important that you detect and report any student that are falling behind so that they can get the support they need.
 
+In these sessions try to be as succinct as possible. It will be tempting to spend time talking about the students who are doing well but it is important that you give adequate time discussing the problems that the struggling students are having.
+
+In your sessions, try to work out students who are struggling in the same ways or in the same areas. This can be key to finding holes in their education and can be leveraged to make the best use of your time.
 
 ### Remedial Tools
 
@@ -105,15 +117,17 @@ If you discover that your student has fallen behind or has struggled to understa
 
 * **Organised Study Groups** - Ask your course coordinator or other buddies to see if there are any organised study groups this week. For most students, dedicated time with a mentor can be a great way to catch up with the course
 * **Encouraging Team Work** - Overwhelmingly, the greatest source of help that a student can get is from their fellow students. Encourage the student to setup mid-week calls with the rest of the students in their class to get help. If the student is resistant to this idea, consider setting up their first calls with them on a public channel and invite others. 
+* Organising a Break Week - If lots of students have not understood some concepts adding a break week can be good way to make sure that students have enough time to
 
 If a student is struggling with time management and dedicating enough time the course you can try these tools
 
 * **Daily Stand-up** - Ask the student to send you a message every morning about their progress over the past day. It's fine for them to say they've done nothing - the aim of this exercise is to build a habit of consistent working - not to shame the student into working every day. 
+* **Study Plans** - If a student is struggling to find time to work on their homework a good tactic is to work with them on a Study Plan that accurately plans out their week. \(It can also be useful to work with their Personal Development Mentor on this plan\)
 
 ```text
 Exercise 3 (10 minutes)
 
-Let's brainstorm some other ideas of how people can get help if they fall behind.
+In small groups, let's brainstorm some other ideas of how people can get help if they fall behind.
 
 What techniques have you used in the past?
 ```
@@ -146,9 +160,15 @@ Prolonged silences may feel awkward but giving the student enough time to think 
 
 A key skill that you can impart on a student is to be deeply logical and encouraging them to inspect every line of their code. You should be engaged and always ask questions such as “what does that line of code do?”, or “who calls this function?”.
 
-**6. Above all, be kind**
+**6. Above all else, be kind**
 
 At times it may be frustrating or tiring - it's hard work! Try to remember what it was like when you first learned how to code. Remember that with hard work, they will get there eventually.
+
+### Getting Help
+
+First and foremost - you should remember that you are not alone with your students. If you are struggling to find the time to commit to your students reach out on Slack and in your Weekly Calls to find more people to help. 
+
+If your students are all struggling with a similar concept it's important to share this on Slack, not only does this h
 
 ## Supplementary Material
 
