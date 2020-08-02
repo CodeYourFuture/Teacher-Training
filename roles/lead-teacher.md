@@ -40,7 +40,9 @@ The teacher’s role is the role of the director. You are tasked with taking con
       </td>
     </tr>
   </tbody>
-</table>### Classroom Rules
+</table>
+
+### Classroom Rules
 
 1. Be kind: all else is details.
 2. Remember that you are not your learners…

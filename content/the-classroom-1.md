@@ -163,7 +163,9 @@ Repeat for a Module \(JavaScript\) and Lesson \(functions\).
       </td>
     </tr>
   </tbody>
-</table>**Discussion**
+</table>
+
+**Discussion**
 
 Individually, and then in groups:
 
@@ -224,7 +226,9 @@ Have groups feedback to the room. Collect key things in a table, similar to the 
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>#### Reflection
+</table>
+
+#### Reflection
 
 Individually, come up with:
 

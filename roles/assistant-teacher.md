@@ -41,7 +41,9 @@ The assistant teacher’s role is the role of the mentor. You are tasked with wo
       </td>
     </tr>
   </tbody>
-</table>### Classroom Rules
+</table>
+
+### Classroom Rules
 
 1. ​Follow the Code of Conduct
    * You should report any violations to the Personal Development team
