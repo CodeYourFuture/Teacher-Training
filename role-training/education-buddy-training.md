@@ -1,17 +1,17 @@
 # Education Buddy Training
 
-### Projected Time
+## Projected Time
 
 * Lesson: 30 minutes
 * Exercises: 30 minutes
 
-### Prior Knowledge
+## Prior Knowledge
 
 Here are areas that you will need to have before starting this training. You should have
 
 * Some experience being managed or mentored \(i.e. at work\)
 
-### Motivation
+## Motivation
 
 It is important to learn about this because
 
@@ -19,7 +19,7 @@ It is important to learn about this because
 * We want you make best use of yours and your buddies time
 * We want you to be able to transfer the skills your use in your time here to your work life
 
-### Learning Objectives
+## Learning Objectives
 
 Participants will be able to:
 
@@ -28,13 +28,13 @@ Participants will be able to:
 * be able to confidently mentor a student at CodeYourFuture
 * explain how to ask for help when you need it
 
-### Materials
+## Materials
 
 PRESENTATION, VIDEOS AND NOTES
 
-### Lesson
+## Lesson
 
-#### What is a Mentor?
+### What is a Mentor?
 
 ```text
  Exercise 1 (5 Minutes)
@@ -46,7 +46,7 @@ PRESENTATION, VIDEOS AND NOTES
  - Have you had a good mentor in the past? Why were they good?
 ```
 
-#### Mentoring at CodeYourFuture
+### Mentoring at CodeYourFuture
 
 At CodeYourFuture, being a mentor means you have a set of core responsibilities
 
@@ -56,11 +56,11 @@ At CodeYourFuture, being a mentor means you have a set of core responsibilities
 
 As a buddy, you are assigned three students who are your responsibility for.
 
-#### Motivation
+### Motivation
 
 Working out
 
-#### Taking Calls
+### Taking Calls
 
 ### Tools
 
@@ -70,7 +70,7 @@ Consider getting Calend.ly or similar so that students can book in times with yo
 
 #### Remedial Tools
 
-### Supplementary Material
+## Supplementary Material
 
 * This guide to mentoring gives a good basis on the stages of a mentoring relationship
   * [Read it here](https://www.rackham.umich.edu/downloads/more-mentoring-guide-for-mentors.pdf)
@@ -78,7 +78,7 @@ Consider getting Calend.ly or similar so that students can book in times with yo
   * [Part 1: Drop-in Sessions](https://www.codementor.io/learn-programming/how-to-be-an-effective-coding-mentor-on-demand-sessions)
   * [Part 2: Long-term Mentorships](https://www.codementor.io/learn-programming/how-to-be-a-good-long-term-code-mentor)
 
-### Homework
+## Homework
 
 #### Reading
 
