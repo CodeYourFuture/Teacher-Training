@@ -60,19 +60,42 @@ As a buddy, you are assigned three students who are your responsibility for.
 
 ### Motivation
 
-Working out
+Working out why your student wants to be a programmer is an important step 
 
 ### 1-to-1s
 
 A part of your job as a buddy is to have 1-to-1 calls with your students to assess and work out how they're doing in the course. 
 
+#### Before The Call
+
+Consider getting [Calend.ly](http://calend.ly) or similar so that students can book in times with you that work for them. This will save a significant amount of time when you are trying to work out a time that works for both of you.
+
 #### During Calls
+
+
 
 #### Assessment
 
+Throughout the call make notes on the specific areas that your students are not understanding. A useful way for you to describe somebodies understanding is using [Blooms Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/).
 
+```text
+Exercise 2 (10 Minutes)
 
-Feedback To The Team
+For each of the following examples decide which part of Blooms Taxonomy they would fall in to. 
+
+A student can possess some of the more advanced skills without having the more basic skills. It is important to pick up on a students mising base!
+
+1. The student can write an if statement but cannot use it to decide what happens when a button is clicked
+2. The student has built a React application but without separating their code into separate classes
+3. The student can use a forEach and a Map function but they cannot describe how they differ
+4. The student can read a challenge statemnet and accurately turn that into a working application
+5. The student can write a function but does not know how to call it
+6. You ask a student to create a function and they use the wrong syntax
+7. You ask a student to create a function and they do not know where to start
+8. 
+```
+
+### Feedback To The Team
 
 
 
@@ -81,18 +104,51 @@ Feedback To The Team
 If you discover that your student has fallen behind or has struggled to understand some part of the course then you have several tools at your disposal.
 
 * **Organised Study Groups** - Ask your course coordinator or other buddies to see if there are any organised study groups this week. For most students, dedicated time with a mentor can be a great way to catch up with the course
-* **Technical Mentoring** - Hosting a short call with the students for some technical mentoring is a great way to build a relationship with your students. 
-  * You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
+* **Encouraging Team Work** - Overwhelmingly, the greatest source of help that a student can get is from their fellow students. Encourage the student to setup mid-week calls with the rest of the students in their class to get help. If the student is resistant to this idea, consider setting up their first calls with them on a public channel and invite others. 
 
 If a student is struggling with time management and dedicating enough time the course you can try these tools
 
 * **Daily Stand-up** - Ask the student to send you a message every morning about their progress over the past day. It's fine for them to say they've done nothing - the aim of this exercise is to build a habit of consistent working - not to shame the student into working every day. 
 
-### Organisation Tools
+```text
+Exercise 3 (10 minutes)
 
-#### Calendar Management
+Let's brainstorm some other ideas of how people can get help if they fall behind.
 
-Consider getting [Calend.ly](http://calend.ly) or similar so that students can book in times with you that work for them. This will save significant amounts of time when you are
+What techniques have you used in the past?
+```
+
+### **Technical Mentoring** 
+
+Hosting a short call with the students for some technical mentoring is a great way to build a relationship with your students. 
+
+You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
+
+When you're working with your student there are a few rules that you should follow
+
+**1. Don't touch the keyboard**
+
+It is vitally important that no matter how great the temptation the student should always be in control of the keyboard. 
+
+**2. You're there to guide - not to tell**
+
+When you are mentoring your role is to help the student get to the solution themselves and not simply complete the 
+
+**3. Use Google**
+
+Developing a students Google skills is an important skill so don't be afraid to ask them to Google to find the answer. The whole problem solving process is important.
+
+**4. Let the student think**
+
+Prolonged silences may feel awkward but giving the student enough time to think and work through a problem is critical. Don't be afraid to step away for a moment or focus on the next task while the student continues to work. 
+
+**5. Be Logical**
+
+A key skill that you can impart on a student is to be deeply logical and encouraging them to inspect every line of their code. You should be engaged and always ask questions such as “what does that line of code do?”, or “who calls this function?”.
+
+**6. Above all, be kind**
+
+At times it may be frustrating or tiring - it's hard work! Try to remember what it was like when you first learned how to code. Remember that with hard work, they will get there eventually.
 
 ## Supplementary Material
 
@@ -114,16 +170,13 @@ Read the materials in the `Supplementary Material` section of this document
 
 _Time: ~2 hours_
 
-Mentoring is a skill like any other that can be developed through practice and critical, constructive feedback.
+Technical mentoring is a skill like any other that can be developed through practice and critical, constructive feedback.
 
 As a pair, setup a mentoring session with a group of students. One person should spend twenty minutes working with the students on the challenges that they are facing. The other person should take notes and feedback on the session, After twenty minutes, swap roles and continue with the exercise.
 
 For the mentor, try to keep in mind everything that we've cover in this session. You'll make mistakes but don't worry! It's all in the process.
 
-For the note taker, try to keep notes on the following areas
-
-* Did the mentor give the students time to think?
-* Did the mentor try to enable to the students to find the answer by themselves
+For the watcher, take notes on if your partner is covering the rules that we spoke about earlier.
 
 After the session, feedback your notes to each other.
 
