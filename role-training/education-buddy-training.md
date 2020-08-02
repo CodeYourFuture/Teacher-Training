@@ -1,17 +1,19 @@
 # Education Buddy Training
 
-## Projected Time
+## Training Details
+
+### Projected Time
 
 * Lesson: 30 minutes
 * Exercises: 30 minutes
 
-## Prior Knowledge
+### Prior Knowledge
 
 Here are areas that you will need to have before starting this training. You should have
 
 * Some experience being managed or mentored \(i.e. at work\)
 
-## Motivation
+### Motivation
 
 It is important to learn about this because
 
@@ -19,7 +21,7 @@ It is important to learn about this because
 * We want you make best use of yours and your buddies time
 * We want you to be able to transfer the skills your use in your time here to your work life
 
-## Learning Objectives
+### Learning Objectives
 
 Participants will be able to:
 
@@ -28,7 +30,7 @@ Participants will be able to:
 * be able to confidently mentor a student at CodeYourFuture
 * explain how to ask for help when you need it
 
-## Materials
+### Materials
 
 PRESENTATION, VIDEOS AND NOTES
 
@@ -60,15 +62,37 @@ As a buddy, you are assigned three students who are your responsibility for.
 
 Working out
 
-### Taking Calls
+### 1-to-1s
 
-### Tools
+A part of your job as a buddy is to have 1-to-1 calls with your students to assess and work out how they're doing in the course. 
+
+#### During Calls
+
+#### Assessment
+
+
+
+Feedback To The Team
+
+
+
+### Remedial Tools
+
+If you discover that your student has fallen behind or has struggled to understand some part of the course then you have several tools at your disposal.
+
+* **Organised Study Groups** - Ask your course coordinator or other buddies to see if there are any organised study groups this week. For most students, dedicated time with a mentor can be a great way to catch up with the course
+* **Technical Mentoring** - Hosting a short call with the students for some technical mentoring is a great way to build a relationship with your students. 
+  * You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
+
+If a student is struggling with time management and dedicating enough time the course you can try these tools
+
+* **Daily Stand-up** - Ask the student to send you a message every morning about their progress over the past day. It's fine for them to say they've done nothing - the aim of this exercise is to build a habit of consistent working - not to shame the student into working every day. 
+
+### Organisation Tools
 
 #### Calendar Management
 
-Consider getting Calend.ly or similar so that students can book in times with you that work for them. This will save significant amounts of time
-
-#### Remedial Tools
+Consider getting [Calend.ly](http://calend.ly) or similar so that students can book in times with you that work for them. This will save significant amounts of time when you are
 
 ## Supplementary Material
 
@@ -80,15 +104,15 @@ Consider getting Calend.ly or similar so that students can book in times with yo
 
 ## Homework
 
-#### Reading
+### Reading
 
-Time: 20 minutes
+_Time: 20 minutes_
 
 Read the materials in the `Supplementary Material` section of this document
 
-#### Practical
+### Practical
 
-Time: ~2 hours
+_Time: ~2 hours_
 
 Mentoring is a skill like any other that can be developed through practice and critical, constructive feedback.
 
@@ -103,9 +127,9 @@ For the note taker, try to keep notes on the following areas
 
 After the session, feedback your notes to each other.
 
-#### Buddy Work
+### Buddy Work
 
-Time: 30 minutes
+_Time: 30 minutes_
 
 Next time you speak to your student spend some time working out what motivates them and what they want to get from the course. Try to find out
 
