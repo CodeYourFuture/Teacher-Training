@@ -186,7 +186,7 @@ At times it may be frustrating or tiring - it's hard work! Try to remember what 
 
 First and foremost - you should remember that you are not alone with your students. If you are struggling to find the time to commit to your students reach out on Slack and in your Weekly Calls to find more people to help. 
 
-If your students are all struggling with a similar concept it's important to share this on Slack, not only does this h
+If your students are all struggling with a similar concept it's important to share this on Slack, not only does this help build a culture of open learning, it also invites more people to get involved in the discussion.
 
 ## Supplementary Material
 
