@@ -121,9 +121,10 @@ In your sessions, try to work out students who are struggling in the same ways o
 
 If you discover that your student has fallen behind or has struggled to understand some part of the course then you have several tools at your disposal.
 
+* **Technical Mentoring -** When you have time, specific Technical Mentoring can be a really impactful way to help your students
 * **Organised Study Groups** - Ask your course coordinator or other buddies to see if there are any organised study groups this week. For most students, dedicated time with a mentor can be a great way to catch up with the course
 * **Encouraging Team Work** - Overwhelmingly, the greatest source of help that a student can get is from their fellow students. Encourage the student to setup mid-week calls with the rest of the students in their class to get help. If the student is resistant to this idea, consider setting up their first calls with them on a public channel and invite others. 
-* Organising a Break Week - If lots of students have not understood some concepts adding a break week can be good way to make sure that students have enough time to
+* **Organising a Break Week** - If lots of students have not understood some concepts adding a break week can be good way to make sure that students have enough time to catch up.
 
 If a student is struggling with time management and dedicating enough time the course you can try these tools
 
@@ -134,6 +135,8 @@ If a student is struggling with time management and dedicating enough time the c
 Exercise 3 (10 minutes)
 
 In small groups, let's brainstorm some other ideas of how people can get help if they fall behind.
+
+What other kinds of issues might students have on the course?
 
 What techniques have you used in the past?
 ```
