@@ -186,6 +186,18 @@ _Time: 20 minutes_
 
 Read the materials in the `Supplementary Material` section of this document
 
+### Teach Like A Champion 
+
+_Time: 30 minutes to 5 hours_
+
+This fantastic book is a host of practical advice for teachers and mentors. 
+
+{% file src="../.gitbook/assets/2a30d7eaa7a77935c6b01ef1b79ff5002107.pdf" caption="Teach Like A Champion \(Condensed\)" %}
+
+We also have full copies to send you. Please speak to your lesson coordinator.
+
+The most important chapters - for your use - are Chapter 1 and Chapter 4.
+
 ### Practical
 
 _Time: ~2 hours_
