@@ -145,8 +145,6 @@ What techniques have you used in the past?
 
 Hosting a short call with the students for some technical mentoring is a great way to build a relationship with your students. 
 
-You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
-
 When you're working with your student there are a few rules that you should follow
 
 **1. Don't touch the keyboard**
@@ -181,7 +179,11 @@ Students will always want to seem like the understand and may be afraid of letti
 
 > "Right, we've covered map functions, can you tell me what this part inside the parenthesis are doing?" ... "Yes, it's converting a String into a Number"
 
-**7. Above all else, be kind**
+**7. Be Public**
+
+You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
+
+**8. Above all else, be kind**
 
 At times it may be frustrating or tiring - it's hard work! Try to remember what it was like when you first learned how to code. Remember that with hard work, they will get there eventually.
 
