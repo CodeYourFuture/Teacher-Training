@@ -156,11 +156,23 @@ Developing a students Google skills is an important skill so don't be afraid to 
 
 Prolonged silences may feel awkward but giving the student enough time to think and work through a problem is critical. Don't be afraid to step away for a moment or focus on the next task while the student continues to work. 
 
+If the student is taking a long time, try to guide them through questioning - rather than through facts - to reach the solution they are working towards.
+
 **5. Be Logical**
 
 A key skill that you can impart on a student is to be deeply logical and encouraging them to inspect every line of their code. You should be engaged and always ask questions such as “what does that line of code do?”, or “who calls this function?”.
 
-**6. Above all else, be kind**
+**6. Reject Self-Response**
+
+When offering technical support try not to let yourself fall into the trap of 
+
+> "Right, we've covered map functions, do you think you understand everything we just did" ... "Yes"
+
+Students will always want to seem like the understand and may be afraid of letting you down. Instead try to probe for understanding, for example
+
+> "Right, we've covered map functions, can you tell me what this part inside the parenthesis are doing?" ... "Yes, it's converting a String into a Number"
+
+**7. Above all else, be kind**
 
 At times it may be frustrating or tiring - it's hard work! Try to remember what it was like when you first learned how to code. Remember that with hard work, they will get there eventually.
 
