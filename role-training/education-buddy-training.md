@@ -26,9 +26,9 @@ It is important to learn about this because
 Participants will be able to:
 
 * list the responsibilities of an Education Buddy at CodeYourFuture
-* provide concrete, actionable feedback on a student
-* be able to confidently mentor a student at CodeYourFuture
-* explain how to ask for help when you need it
+* provide concrete feedback on a student
+* confidently mentor a student at CodeYourFuture
+* advise students on how they can get help when they need it
 
 ### Materials
 
