@@ -1,3 +1,7 @@
+---
+description: Being an Education Buddy can be a rewarding
+---
+
 # Education Buddy Training
 
 ## Training Details
