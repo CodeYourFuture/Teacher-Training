@@ -98,12 +98,12 @@ Exercise 2 (10 Minutes)
 
 For each of the following examples decide which part of Blooms Taxonomy they would fall in to. 
 
-A student can possess some of the more advanced skills without having the more basic skills. It is important to pick up on a students mising base!
+A student can possess some of the more advanced skills without having the more basic skills. It is important to pick up on a students mising base knowledge!
 
 1. The student can write an if statement but cannot use it to decide what happens when a button is clicked
 2. The student has built a React application but without separating their code into separate classes
 3. The student can use a forEach and a Map function but they cannot describe how they differ
-4. The student can read a challenge statemnet and accurately turn that into a working application
+4. The student can read a challenge statement and accurately turn that into a working application
 5. The student can write a function but does not know how to call it
 6. You ask a student to create a function and they use the wrong syntax
 7. You ask a student to create a function and they do not know where to start
