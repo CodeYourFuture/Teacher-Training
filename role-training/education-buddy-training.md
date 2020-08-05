@@ -91,24 +91,6 @@ Some ways for you to access understand are to
 * Ask the student to add a new small feature to their homework
 * Complete a programming challenge \(many of these can be found in the [the syllabus](https://syllabus.codeyourfuture.io/)\)
 
-Throughout the call make notes on the specific areas that your students are not understanding. A useful way for you to describe somebodies understanding is using [Blooms Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/).
-
-```text
-Exercise 2 (10 Minutes)
-
-For each of the following examples decide which part of Blooms Taxonomy they would fall in to. 
-
-A student can possess some of the more advanced skills without having the more basic skills. It is important to pick up on a students mising base knowledge!
-
-1. The student can write an if statement but cannot use it to decide what happens when a button is clicked
-2. The student has built a React application but without separating their code into separate classes
-3. The student can use a forEach and a Map function but they cannot describe how they differ
-4. The student can read a challenge statement and accurately turn that into a working application
-5. The student can write a function but does not know how to call it
-6. You ask a student to create a function and they use the wrong syntax
-7. You ask a student to create a function and they do not know where to start
-```
-
 ### Feeding Back To The Team
 
 Depending on your team you will decide to meet every week or two weeks to discuss the progress that the students are making through the module. Especially earlier in the course it is important that you detect and report any student that are falling behind so that they can get the support they need.
@@ -116,6 +98,38 @@ Depending on your team you will decide to meet every week or two weeks to discus
 In these sessions try to be as succinct as possible. It will be tempting to spend time talking about the students who are doing well but it is important that you give adequate time discussing the problems that the struggling students are having.
 
 In your sessions, try to work out students who are struggling in the same ways or in the same areas. This can be key to finding holes in their education and can be leveraged to make the best use of your time.
+
+Where possible feedback should be 
+
+1. Precise
+2. Evidence Based
+3. Actionable
+
+For example, a bad piece of feedback might look like
+
+> The student is struggling with their JavaScript homework and is generally lost in lessons
+
+This piece of feedback is not precise - which part of the homework are they struggling with? - it is not evidence based - how do you know they are struggling? - and it is not actionable - how would we be able to help the student with this statement?
+
+A better piece of feedback might be 
+
+> The student has struggled to do the homework because they do not understand functions. They could not work out how to return a variable from a function.
+
+This is better because we can more easily work out how to help the student. 
+
+```text
+Exercise 2 (10 Minutes)
+
+In our meetings we need to feedback on our student in an accurate, succinct and precise way.
+
+Here are several comments that Buddies have given about students in the past. 
+
+You should rank them in order of how useful the comment is to judge how a student is performing. Also give reasons for why it is good or bad.  
+
+- The student is doing well and is helping other students.
+- The student has create a React app for thier most recently homework that's really excellent. When pressed they can accurately explain the React render loop. 
+- The student 
+```
 
 ### Remedial Tools
 
@@ -200,6 +214,8 @@ If your students are all struggling with a similar concept it's important to sha
 * This series of articles on mentors from Codementors.io are very good and gives a great grounding in the skill set
   * [Part 1: Drop-in Sessions](https://www.codementor.io/learn-programming/how-to-be-an-effective-coding-mentor-on-demand-sessions)
   * [Part 2: Long-term Mentorships](https://www.codementor.io/learn-programming/how-to-be-a-good-long-term-code-mentor)
+* This article gives good background to teachers giving report feedback
+  * [Teacher comments in school reports](https://www.teachermagazine.com.au/articles/teacher-comments-in-school-reports-whats-effective)
 
 ## Homework
 
