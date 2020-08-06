@@ -127,11 +127,11 @@ Here are several comments that Buddies have given about students in the past.
 You should rank them in order of how useful the comment is to judge how a student is performing. Also give reasons for why it is good or bad.  
 
 - The student is doing well and is helping other students.
-- The student has create a React app for thier most recently homework that's really excellent. When pressed they can accurately explain the React render loop. 
-- The student 
+- The student has created a React app for thier most recently homework that's really excellent. When pressed they can accurately explain the React render loop. 
+- The student does not understand JavaScript to a sufficient standard but would benefit from additional exercises
+- The student has used forEach, map and reduce in their most recent homework and used documentation to assist them
+Remedial Tools
 ```
-
-### Remedial Tools
 
 If you discover that your student has fallen behind or has struggled to understand some part of the course then you have several tools at your disposal.
 
