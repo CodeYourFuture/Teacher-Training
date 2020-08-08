@@ -164,7 +164,15 @@ It is vitally important that no matter how great the temptation the student shou
 
 **2. You're there to guide - not to tell**
 
-When you are mentoring your role is to help the student get to the solution themselves and not simply complete the 
+When you are mentoring your role is to help the student get to the solution themselves and not simply complete the exercises for them.
+
+Actively consider whether you should be:
+* Asking general questions to prompt the answer ("What values could cause problems for this function?")
+* Asking specific questions to prompt the answer ("What happens when you call this function with 0?")
+* Giving the student a high-level instruction ("Let's add a state variable and wire it up to a click handler")
+* Giving the student a low-level instruction ("On line 7 type '= useState(0);'").
+
+Each of these has appropriate places, but prefer to be as high up the list as you can.
 
 **3. Use Google**
 
