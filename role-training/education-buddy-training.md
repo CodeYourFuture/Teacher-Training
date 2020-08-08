@@ -194,6 +194,8 @@ Students will always want to seem like the understand and may be afraid of letti
 
 You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
 
+It's ok to be explicit about the focus of a call. Saying things like "We're focusing on using map and forEach - we can cover other topics if we have time.", or "I'm going to be focuing on working with Amalia - others are welcome to join, but she has priority".
+
 **8. Above all else, be kind**
 
 At times it may be frustrating or tiring - it's hard work! Try to remember what it was like when you first learned how to code. Remember that with hard work, they will get there eventually.
