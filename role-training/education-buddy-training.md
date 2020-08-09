@@ -166,6 +166,19 @@ It is vitally important that no matter how great the temptation the student shou
 
 When you are mentoring your role is to help the student get to the solution themselves and not simply complete the 
 
+Actively consider whether you should be:
+
+* Asking general questions to prompt the answer 
+  * "What values could cause problems for this function?"
+* Asking specific questions to prompt the answer 
+  * "What happens when you call this function with 0?"
+* Giving the student a high-level instruction 
+  * "Let's add a state variable and wire it up to a click handler"
+* Giving the student a low-level instruction 
+  * "On line 7 type '= useState\(0\);'"
+
+Each of these has appropriate places, but prefer to be as high up the list as you can.
+
 **3. Use Google**
 
 Developing a students Google skills is an important skill so don't be afraid to ask them to Google to find the answer. The whole problem solving process is important.
@@ -193,6 +206,8 @@ Students will always want to seem like the understand and may be afraid of letti
 **7. Be Public**
 
 You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
+
+It's okay to be explicit about the focus of a call. Saying things like "We're focusing on using `map` and `forEach` - we can cover other topics if we have time.", or "I'm going to be focusing on working with Amalia - others are welcome to join, but she has priority".
 
 **8. Above all else, be kind**
 
