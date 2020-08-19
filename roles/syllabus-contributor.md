@@ -57,14 +57,23 @@ This role involves
 
 ### Reviewing Changes
 
-For all of the above, we should
+For all of the above, we need a Peer Review system in place to catch any bugs or errors. This will also include contributions made from outside of the Syllabus Contributor team
+
+This role involves
+
+* Checking Pull Requests for error when they are raised
+* Approving or Rejecting changes
 
 ## Commitment
 
-This role can grow and shrink depending how much time you have. At a minimum it requires
+This role can grow and shrink depending how much time you have. 
+
+At a minimum it requires
 
 * One meeting every two weeks for sprint planning
 * An hour a week to review Pull Requests
+
+In addition to this, time you can commit to the above tasks is where the bulk of the work will happen.
 
 ## Organisation
 
@@ -79,6 +88,4 @@ Communication primarily happens on Slack in
 
 * \#cyf-syllabus - General discussion and planning
 * \#cyf-syllabus-feed - Updates via a Slack bot for PRs to the Syllabus
-
-## Tools
 
