@@ -89,3 +89,9 @@ Communication primarily happens on Slack in
 * \#cyf-syllabus - General discussion and planning
 * \#cyf-syllabus-feed - Updates via a Slack bot for PRs to the Syllabus
 
+## Resources
+
+{% embed url="https://teachtogether.tech/en/index.html\#s:process" caption="The \'Lesson Design Process\' of this book has great group exercises" %}
+
+{% embed url="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006915\#sec009" caption="A great list of ten areas to keep in mind when designing a lesson" %}
+
