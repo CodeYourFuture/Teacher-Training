@@ -28,6 +28,8 @@ To prepare for the lesson please read [this section](https://third-bit.com/2019/
 
 ## Lesson
 
+All exercises are graciously taken from [Teaching Tech Together](https://teachtogether.tech/en/index.html#s:process).
+
 ### Learning Objectives Exercise
 
 #### Classify Learning Objectives \(pairs/10 minutes\) <a id="classify-learning-objectives-pairs10"></a>
@@ -62,7 +64,7 @@ Then discuss with the team on what you've created.
 
 **\(individual/15 minutes\)**
 
-Another lesson pattern is PRIMM - **P**redict a program’s behavior or output, **R**un it to see what it actually does, **I**nvestigate why it does that by stepping through it in a debugger or drawing the flow of control, **M**odify it \(or its inputs\), and then **M**ake something similar from scratch. 
+Another lesson pattern is PRIMM - **P**redict a program’s behaviour or output, **R**un it to see what it actually does, **I**nvestigate why it does that by stepping through it in a debugger or drawing the flow of control, **M**odify it \(or its inputs\), and then **M**ake something similar from scratch. 
 
 Pick something you have recently taught or been taught and outline a short lesson for it that follows these five steps.
 
