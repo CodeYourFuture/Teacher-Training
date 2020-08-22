@@ -39,14 +39,14 @@ This role involves
 
 ### Updating Teaching Contents
 
-Over time, certain areas of our syllabus age and have to re-written or replaced as the technology evolves. In addition, volunteers may flag areas of the syllabus as being weaker of lesser quality than others. 
+Over time, certain areas of our syllabus age and have be to re-written or replaced as the technology evolves. In addition, volunteers may flag areas of the syllabus as being weaker of lesser quality than others. 
 
 This role involves
 
 * Turning teacher changes into teachable content
 * Re-writing specific content as we see fit
 
-### Coordinating and Running Workshop
+### Coordinating and Running Workshops
 
 We have many other topics that our community wants to learn about that lie outside of our syllabus. Additionally, we also have a lot of subject area experts come to us with topics for workshops that would not be helpful for all of our students. 
 
@@ -57,7 +57,7 @@ This role involves
 
 ### Reviewing Changes
 
-For all of the above, we need a Peer Review system in place to catch any bugs or errors. This will also include contributions made from outside of the Syllabus Contributor team
+For all of the above, we need a Peer Review system in place to catch any bugs or errors. This will also include contributions made from outside of the Syllabus Contributor team.
 
 This role involves
 
