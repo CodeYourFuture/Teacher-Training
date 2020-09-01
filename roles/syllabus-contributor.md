@@ -43,7 +43,8 @@ Over time, certain areas of our syllabus age and have be to re-written or replac
 
 This role involves
 
-* Turning teacher changes into teachable content
+* Communicating with our Teaching Team to gather changes
+* Turning Teacher requests into teachable content
 * Re-writing specific content as we see fit
 
 ### Coordinating and Running Workshops
@@ -61,7 +62,10 @@ For all of the above, we need a Peer Review system in place to catch any bugs or
 
 This role involves
 
-* Checking Pull Requests for error when they are raised
+* Checking Pull Requests for errors including
+  - Technical & logical errors
+  - Spelling & grammatical errors
+  - Pedagogical errors
 * Approving or Rejecting changes
 
 ## Commitment
