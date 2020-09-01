@@ -66,7 +66,8 @@ This role involves
   - Technical & logical errors
   - Spelling & grammatical errors
   - Pedagogical errors
-* Approving or Rejecting changes
+* Approving or proposing changes for Pull Requests
+  - All pull requests must be approved by atleast one other member of the team
 
 ## Commitment
 
