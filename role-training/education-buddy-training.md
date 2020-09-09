@@ -34,8 +34,6 @@ Participants will be able to:
 
 {% embed url="https://docs.google.com/presentation/d/1b23cdD2u2difmxSpEulD\_KdBUfOiqCNB8TwAs23bHgM" %}
 
-
-
 ## Lesson
 
 ### What is a Mentor?
