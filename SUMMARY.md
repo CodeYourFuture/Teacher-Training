@@ -19,6 +19,7 @@
 
 ## Role Training
 
+* [Lead Teacher Training](role-training/lead-teacher-training.md)
 * [Homework Mentor Training](role-training/homework-mentor-training.md)
 * [Education Buddy Training](role-training/education-buddy-training.md)
 * [Syllabus Contributor Training](role-training/syllabus-contributor-training.md)
