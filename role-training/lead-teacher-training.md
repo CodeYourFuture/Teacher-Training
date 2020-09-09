@@ -4,7 +4,9 @@ description: Being a lead teacher is an impactful way to be involved with our st
 
 # Lead Teacher Training
 
-## Learning Objectives
+## Aims
 
 
+
+## Prior Knowledge
 
