@@ -93,8 +93,11 @@ The rest of this session will be focusing on fixing three of the issues raised i
 
 1. How to keep your class engaged
 2. How to tell if your students are understanding what you taught
-3. 
+3. How to do remote teaching well
+
+## Class Engagement
+
 ## Further Reading
 
-
+In the rest of this website you'll find videos of previous teach training sessions - you're encouraged to watch the ones that interest you. 
 
