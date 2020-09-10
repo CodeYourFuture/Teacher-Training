@@ -6,7 +6,7 @@ description: Being a lead teacher is an impactful way to be involved with our st
 
 ## Projected Time
 
-This training will take roughly 90 minutes to complete.
+This training will take roughly 120 minutes to complete.
 
 ## Aims
 
