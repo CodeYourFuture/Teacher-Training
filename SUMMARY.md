@@ -11,11 +11,16 @@
 
 ## Content
 
-* [Why Do We Teach?](content/why-do-we-teach.md)
-* [The Classroom](content/the-classroom-1.md)
-* [Questioning](content/questioning.md)
-* [Empathy](content/empathy.md)
-* [Motivation & Demotivation](content/motivation-and-demotivation.md)
+* [Why do we teach?](content/why-do-we-teach.md)
+* [What's my role in the classroom?](content/the-classroom-1.md)
+* [How do I ask good questions?](content/questioning.md)
+* [How can I understand my students?](content/empathy.md)
+* [How do I motivate my students?](content/motivation-and-demotivation.md)
+* [What's different about remote teaching?](content/whats-different-about-remote-teaching.md)
+* [Do they understand what I taught?](content/untitled.md)
+* [What are they all thinking?](content/untitled-1.md)
+* [Are they all engaged?](content/untitled-2.md)
+* [Why don't they understand?](content/untitled-3.md)
 
 ## Role Training
 

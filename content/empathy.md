@@ -5,7 +5,7 @@ description: >-
   (Created by Neill Bogie)
 ---
 
-# Empathy
+# How can I understand my students?
 
 ## Learning Objectives
 

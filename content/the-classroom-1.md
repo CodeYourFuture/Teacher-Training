@@ -4,7 +4,7 @@ description: >-
   about how to stay engaged during class. (Created by Richard Ng)
 ---
 
-# The Classroom
+# What's my role in the classroom?
 
 ## Presentation Slides
 

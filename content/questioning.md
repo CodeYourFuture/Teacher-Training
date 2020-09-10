@@ -5,7 +5,7 @@ description: >-
   Ng)
 ---
 
-# Questioning
+# How do I ask good questions?
 
 ## Presentation Slides
 

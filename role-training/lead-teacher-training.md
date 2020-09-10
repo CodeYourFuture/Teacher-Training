@@ -19,7 +19,11 @@ By the end of this training you should be able to
 
 ## Motivation
 
+This training will be useful to you if 
 
+* You are taking part in teaching at CodeYourFuture for the first time
+* You want to make the most impact during your teaching time here
+* You want to learn about the common pitfalls of new teachers.
 
 ## Prior Knowledge
 

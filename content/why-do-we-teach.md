@@ -4,7 +4,7 @@ description: >-
   reason about why we want to be educators. (Created by Chris Owen)
 ---
 
-# Why Do We Teach?
+# Why do we teach?
 
 ## Learning **Objectives**
 
