@@ -31,4 +31,5 @@
 * [Are they all engaged?](content/untitled-2.md)
 * [Why don't they understand?](content/untitled-3.md)
 * [What is a good learning objective?](content/what-is-a-good-learning-objective.md)
+* [How do I motivate explanations for students?](content/how-do-i-motivate-explanations-for-students.md)
 
