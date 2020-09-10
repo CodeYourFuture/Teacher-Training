@@ -8,6 +8,10 @@ This is meant to build on the previous introduction to checking for understandin
 
 The main desired takeaway from this session is the Cold Call technique - so, as a trainer, try to model this when you can!
 
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=ohR6YhJ\_3Zc" %}
+
 ## Trainer notes
 
 ### Spot the difference \(slide 2\)
