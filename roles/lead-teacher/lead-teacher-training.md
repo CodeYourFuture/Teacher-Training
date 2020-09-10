@@ -16,6 +16,7 @@ By the end of this training you should be able to
 * Use three techniques to engage students during class
 * Identify what bad teaching looks like
 * Use the syllabus to assist you in teaching your students
+* Be able to teach effectively online
 
 ## Motivation
 
@@ -41,9 +42,13 @@ We do not expect you
 
 ## Training
 
+### Introduction \(5 minutes\)
+
+Throughout this lesson I'll be giving you 
+
 ### Preparing For A Class \(20 minutes\)
 
-
+The Syllabus
 
 ### What is Bad Teaching? \(20 minutes\)
 
@@ -122,7 +127,7 @@ What does the teacher do to "Dissolve the Screen"?
 
 {% embed url="https://vimeo.com/408761410" %}
 
-### Leap of Faith
+#### Leap of Faith
 
 * Teaching remotely can feel very strange
   * \(Why might teaching remotely feel more strange?\)
