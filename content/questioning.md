@@ -5,7 +5,7 @@ description: >-
   Ng)
 ---
 
-# How do I ask good questions?
+# How can I ask good questions?
 
 ## Presentation Slides
 
