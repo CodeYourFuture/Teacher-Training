@@ -4,7 +4,7 @@ description: >-
   students - join the team that looks after it!
 ---
 
-# Syllabus Contributor
+# Role
 
 ## Background
 

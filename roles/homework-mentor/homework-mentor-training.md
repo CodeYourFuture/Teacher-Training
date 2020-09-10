@@ -5,7 +5,7 @@ description: >-
   our students effectively.
 ---
 
-# Homework Mentor Training
+# Training
 
 ## What is a Homework Mentor?
 
@@ -50,11 +50,11 @@ You should gather all of the attendees emails and invite them to the slack chann
 
 **It is important you invite them as Single-Channel Guests so we don't hit our member limit.** You can invite them as Single-Channel Guests from here:
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 Then click here:
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 #### Sign Up Sheet
 

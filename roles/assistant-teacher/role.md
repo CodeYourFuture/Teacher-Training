@@ -1,4 +1,4 @@
-# Assistant Teacher
+# Role
 
 The assistant teacher’s role is the role of the mentor. You are tasked with working closely with small groups or individual students to guide them through the lessons content. You should motivate when the student is feeling down, explain when the student is not comprehending and encourage the student to be inquisitive. You will be working more closely with our students than anyone else in the organisation and so you are a crucial part of the relationship we have with them.
 

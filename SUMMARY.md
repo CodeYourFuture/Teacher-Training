@@ -4,10 +4,19 @@
 
 ## Roles
 
-* [Lead Teacher](roles/lead-teacher.md)
-* [Assistant Teacher](roles/assistant-teacher.md)
-* [Education Buddy](roles/education-buddy.md)
-* [Syllabus Contributor](roles/syllabus-contributor.md)
+* [Lead Teacher](roles/lead-teacher/README.md)
+  * [Role](roles/lead-teacher/role.md)
+  * [Training](roles/lead-teacher/lead-teacher-training.md)
+* [Assistant Teacher](roles/assistant-teacher/README.md)
+  * [Role](roles/assistant-teacher/role.md)
+* [Syllabus Contributor](roles/syllabus-contributor/README.md)
+  * [Role](roles/syllabus-contributor/syllabus-contributor.md)
+  * [Training](roles/syllabus-contributor/syllabus-contributor-training.md)
+* [Education Buddy](roles/education-buddy/README.md)
+  * [Role](roles/education-buddy/role.md)
+  * [Training](roles/education-buddy/education-buddy-training.md)
+* [Homework Mentor](roles/homework-mentor/README.md)
+  * [Training](roles/homework-mentor/homework-mentor-training.md)
 
 ## Content
 
@@ -23,9 +32,4 @@
 * [Why don't they understand?](content/untitled-3.md)
 
 ## Role Training
-
-* [Lead Teacher Training](role-training/lead-teacher-training.md)
-* [Homework Mentor Training](role-training/homework-mentor-training.md)
-* [Education Buddy Training](role-training/education-buddy-training.md)
-* [Syllabus Contributor Training](role-training/syllabus-contributor-training.md)
 

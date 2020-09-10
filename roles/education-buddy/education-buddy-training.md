@@ -1,4 +1,4 @@
-# Education Buddy Training
+# Training
 
 ## Training Details
 
@@ -241,7 +241,7 @@ _Time: 30 minutes to 5 hours_
 
 This fantastic book is a host of practical advice for teachers and mentors. 
 
-{% file src="../.gitbook/assets/2a30d7eaa7a77935c6b01ef1b79ff5002107.pdf" caption="Teach Like A Champion \(Condensed\)" %}
+{% file src="../../.gitbook/assets/2a30d7eaa7a77935c6b01ef1b79ff5002107.pdf" caption="Teach Like A Champion \(Condensed\)" %}
 
 We also have full copies to send you. Please speak to your lesson coordinator.
 

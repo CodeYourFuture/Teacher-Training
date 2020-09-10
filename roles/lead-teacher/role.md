@@ -1,4 +1,4 @@
-# Lead Teacher
+# Role
 
 The teacher’s role is the role of the director. You are tasked with taking control of the flow of the class and making sure it proceeds in a way that is beneficial not only to students but to volunteers as well. In the classroom, people will look to you as a figure of authority and leadership. As a lead teacher, you are ultimately responsible for what is taught in the class, the pace and the involvement of our other volunteers. It is an important and impactful role where you can have a huge impact on our student’s education.
 

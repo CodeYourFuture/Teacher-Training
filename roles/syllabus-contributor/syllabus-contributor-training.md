@@ -2,7 +2,7 @@
 description: Working on the syllabus can be hard and complex work. Lets get started.
 ---
 
-# Syllabus Contributor Training
+# Training
 
 ## Aim
 
