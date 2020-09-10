@@ -105,6 +105,19 @@ See the [Are They All Engaged?](../../content/untitled-2.md) lesson
 
 ### 3\) Remote Teaching
 
+#### Dissolve the Screen
+
+To Dissolve the Screen is to heighten students’ awareness of the back-and-forth exchange that still exists between us so they feel it more. For example:
+
+* “I see the work you’re sending me, and it matters”
+* “I’m still here, we’re still connected”
+
+**Start the below video at 1:07**
+
+What does the teacher do to "Dissolve the Screen"?
+
+{% embed url="https://vimeo.com/408761410" %}
+
 
 
 ## Further Reading
