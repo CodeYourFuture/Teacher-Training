@@ -12,7 +12,7 @@ This training will take roughly 120 minutes to complete.
 
 By the end of this training you should be able to
 
-* List the responsibilities of a Lead Teacher in a lesson
+* * List the responsibilities of a Lead Teacher in a lesson
 * Use three techniques to engage students during class
 * Identify what bad teaching looks like
 * Use the syllabus to assist you in teaching your students
@@ -40,6 +40,10 @@ We do not expect you
 * To have any professional teaching or pedagogical experience
 
 ## Training
+
+### Preparing For A Class \(20 minutes\)
+
+
 
 ### What is Bad Teaching? \(20 minutes\)
 
@@ -95,15 +99,15 @@ The rest of this session will be focusing on fixing three of the issues raised i
 2. How to tell if your students are understanding what you taught
 3. How to do remote teaching well
 
-### 1\) Class Engagement
+### Class Engagement \(40 Minutes\)
 
-See the [Are They All Engaged?](../../content/untitled-2.md) lesson
+See the [Are They All Engaged?](../../content/are-they-all-engaged.md) lesson
 
-### 2\) Student Understanding
+### Student Understanding \(40 Minutes\)
 
-See the [Do they understand what I taught?](../../content/untitled.md) lesson
+See the [Do they understand what I taught?](../../content/do-they-understand-what-i-taught.md) lesson
 
-### 3\) Remote Teaching
+### Remote Teaching \(15 minutes\)
 
 #### Dissolve the Screen
 
@@ -118,7 +122,13 @@ What does the teacher do to "Dissolve the Screen"?
 
 {% embed url="https://vimeo.com/408761410" %}
 
+### Leap of Faith
 
+* Teaching remotely can feel very strange
+  * \(Why might teaching remotely feel more strange?\)
+* Take the Leap of Faith
+  * Teaching is theatre
+  * Act as if you had an audience
 
 ## Further Reading
 
