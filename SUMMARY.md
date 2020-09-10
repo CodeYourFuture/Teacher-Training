@@ -23,7 +23,7 @@
 * [Why do we teach?](content/why-do-we-teach.md)
 * [What's my role in the classroom?](content/the-classroom-1.md)
 * [How can I ask good questions?](content/questioning.md)
-* [How can I understand my students?](content/empathy.md)
+* [How can I understand my students backgrounds?](content/empathy.md)
 * [How do I motivate my students?](content/motivation-and-demotivation.md)
 * [What's different about remote teaching?](content/whats-different-about-remote-teaching.md)
 * [Do they understand what I taught?](content/untitled.md)

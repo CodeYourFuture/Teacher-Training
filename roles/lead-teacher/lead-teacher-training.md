@@ -95,7 +95,17 @@ The rest of this session will be focusing on fixing three of the issues raised i
 2. How to tell if your students are understanding what you taught
 3. How to do remote teaching well
 
-## Class Engagement
+### 1\) Class Engagement
+
+See the [Are They All Engaged?](../../content/untitled-2.md) lesson
+
+### 2\) Student Understanding
+
+
+
+### 3\) Remote Teaching
+
+
 
 ## Further Reading
 

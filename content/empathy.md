@@ -5,7 +5,7 @@ description: >-
   (Created by Neill Bogie)
 ---
 
-# How can I understand my students?
+# How can I understand my students backgrounds?
 
 ## Learning Objectives
 
