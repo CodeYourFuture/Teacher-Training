@@ -8,6 +8,12 @@ Remote teaching is webinar-style by default - but that often comes with a poor s
 
 The overarching goal of this training session, _"What's different about remote teaching?"_, is to embed awareness that things can be much better than the default, and to give some practical tools to help trainees achieve this.
 
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=V17zXt7K0Fc" %}
+
+
+
 ## Trainer notes
 
 ### The 7 Cs \(slide 2\)

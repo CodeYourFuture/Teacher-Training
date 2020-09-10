@@ -30,4 +30,5 @@
 * [What are they all thinking?](content/untitled-1.md)
 * [Are they all engaged?](content/untitled-2.md)
 * [Why don't they understand?](content/untitled-3.md)
+* [What is a good learning objective?](content/what-is-a-good-learning-objective.md)
 

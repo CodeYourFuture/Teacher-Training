@@ -12,6 +12,12 @@ If only teaching were that easy...!
 
 The overarching goal of this training session, _"Do they understand what I taught?"_, is to embed awareness that a big responsibility in teaching is _checking for understanding_, and giving some practical tools for that.
 
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=CViOfVVkEt4" %}
+
+
+
 ## Trainer notes
 
 ### "Does that make sense?" \(slide 3\)
