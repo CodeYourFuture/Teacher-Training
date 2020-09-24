@@ -4,11 +4,13 @@ description: A tool for you to use to structure your calls with your students
 
 # Mentoring Session Plan
 
-## How are you?
+Use the 
 
+## Mentoring Session
 
+### Welcome & Chit Chat
 
-## What did you do last week?
+### What did you cover last lesson?
 
-
+### 
 

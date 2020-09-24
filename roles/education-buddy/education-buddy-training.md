@@ -1,3 +1,7 @@
+---
+description: How to be the best Education Buddy you can be
+---
+
 # Training
 
 ## Training Details
