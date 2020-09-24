@@ -15,6 +15,7 @@
 * [Education Buddy](roles/education-buddy/README.md)
   * [Role](roles/education-buddy/role.md)
   * [Training](roles/education-buddy/education-buddy-training.md)
+  * [Mentoring Session Plan](roles/education-buddy/mentoring-session-plan.md)
 * [Homework Mentor](roles/homework-mentor/README.md)
   * [Training](roles/homework-mentor/homework-mentor-training.md)
 
