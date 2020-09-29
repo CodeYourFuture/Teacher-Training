@@ -277,3 +277,7 @@ Next time you speak to your student spend some time working out what motivates t
 
 Answering these questions will make it easier for you to tailor your mentoring to your students
 
+## Feedback
+
+Feedback on this course can be given directly to Chris Owen or by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLScIDk3RC9szGeMAqx-jfw4kcP_c8inSJqCcO_vf13dQPo_wGw/viewform).
+
