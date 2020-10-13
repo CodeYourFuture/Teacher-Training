@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Teacher Training at CodeYourFuture](README.md)
 
 ## Roles
 

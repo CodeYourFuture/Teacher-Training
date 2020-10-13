@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to Teacher Training at CodeYourFuture
 
 ## The Problem
 
