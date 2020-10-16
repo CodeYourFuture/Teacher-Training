@@ -6,6 +6,10 @@
 
 This training session is meant to build on the previous session by looking at getting larger-scale engagement.
 
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=Hjq2AzKpgMU" %}
+
 ## Trainer notes
 
 ### Partial samples \(slide 2-3\)

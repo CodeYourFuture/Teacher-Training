@@ -33,4 +33,5 @@
 * [Why don't they understand?](content/why-dont-they-understand.md)
 * [What is a good learning objective?](content/what-is-a-good-learning-objective.md)
 * [How do I motivate explanations for students?](content/how-do-i-motivate-explanations-for-students.md)
+* [How do I get the most out of Zoom?](content/how-do-i-get-the-most-out-of-zoom.md)
 
