@@ -19,6 +19,10 @@
 * [Homework Mentor](roles/homework-mentor/README.md)
   * [Training](roles/homework-mentor/homework-mentor-training.md)
 
+## Tasks
+
+* [Marking Coursework](tasks/marking-coursework.md)
+
 ## Content
 
 * [Why do we teach?](content/why-do-we-teach.md)
