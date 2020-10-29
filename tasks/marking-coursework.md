@@ -27,9 +27,22 @@ At the end of each week, students submit homework these challenges and we assess
 
 ### **1\) Finding Coursework**
 
-Coursework including code is always hosted as a Pull Request on Github. 
+Coursework including code is always hosted as a Pull Request on GitHub. 
 
 Every week of the course has some coursework attached to it. If you are an Education Buddy it can be easiest to have your buddy send you the homework to review. If not there are more instruction in [Where do students submit coursework?](marking-coursework.md#where-do-students-submit-coursework)
+
+Additionally, you can also find all of a students open pull requests by using  
+  
+[https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3A](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AChrisOwen101) + {GITHUB+ID}
+
+```text
+Exercise 1 (5 minutes)
+
+Can you find the homework from these students? 
+
+1) Git Week 1 - Chris Owen
+2) All of ChrisOwen101's open pull requests
+```
 
 ### **2\) Giving Feedback**
 
