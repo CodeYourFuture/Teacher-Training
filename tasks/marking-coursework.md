@@ -71,7 +71,7 @@ If they seem to fundamentally misunderstand a concept then it is best to refer t
 
 It never hurts to remind the student of the importance of proper formatting and indentation.
 
-All code that our students write should follow our Code Style Guide \(coming soon!\).
+All code that our students write should follow our Code Style Guide \([coming soon!](https://github.com/CodeYourFuture/syllabus/issues/105)\).
 
 #### Quickly Giving Feedback
 
@@ -124,7 +124,11 @@ A rough guide \(to be taken with a pinch of salt\):
 
 ### **4\) Label the Pull Request**
 
-When you have given feedback
+When you have given feedback it is important you add the label "_**reviewed**_".
+
+If the homework has not been completed you should also add the tag "_**not-completed**_"
+
+These labels help us to tell which coursework is still needing to be marked each week. 
 
 ### **5\) Recording Grade**
 
