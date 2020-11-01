@@ -112,28 +112,15 @@ For our records and to track student progress it is important that we track how 
 
 Please consult your Class Coordinators for the best place to record this information as it will vary from class to class.
 
-Grades should be given on the follow criteria
-
-* The completeness of the homework
-* How much you believe the student understands the content
-* How well executed the homework is
-
 This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
 Although grading makes the tracking easier, we aim to give students feedback rather than grades.
 
-A rough guide \(to be taken with a pinch of salt\):
+Please review our Marking Guide in the Syllabus for more details about Grading.
 
-* 0
-  * Work is not handed in
-* 1, 2, 3
-  * Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
-* 4, 5, 6
-  * Work is okay, demonstrate an understanding of this weeks’ material and the task.
-* 7, 8, 9
-  * Work is good, the student demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
-* 10
-  * Work is perfect, the student demonstrates a deep understanding of this week’s material and the task, a fluent use of code with very minimals errors or improvements
+{% embed url="https://syllabus.codeyourfuture.io/guides/marking-guide" %}
+
+
 
 ### **4\) Label the Pull Request**
 
@@ -144,6 +131,12 @@ If the homework has not been completed you should also add the tag "_**not-compl
 These labels help us to tell which coursework is still needing to be marked each week. 
 
 ### **5\) Recording Grade**
+
+As mentioned earlier, it is important to record your students grades in a single, accessible location.
+
+Most commonly, you will be recording this in a Google Spreadsheet. 
+
+Please consult your Class Coordinators for the best place to record this information as it will vary from class to class.
 
 ## Where do students submit coursework?
 
