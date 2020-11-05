@@ -12,7 +12,7 @@ This training will take roughly 120 minutes to complete.
 
 By the end of this training you should be able to
 
-* * List the responsibilities of a Lead Teacher in a lesson
+* List the responsibilities of a Lead Teacher in a lesson
 * Use three techniques to engage students during class
 * Identify what bad teaching looks like
 * Use the syllabus to assist you in teaching your students
@@ -44,11 +44,43 @@ We do not expect you
 
 ### Introduction \(5 minutes\)
 
-Throughout this lesson I'll be giving you 
+Throughout this lesson I'll be giving you an overview of what we expect from our Teachers at CodeYourFuture, how we expect lessons to run and some practical tips on how to be a better teacher. 
+
+### Our Pedagogical Approach \(5 minutes\)
+
+#### Communitised Learning
+
+We aim for all of our lessons to be community events. This means that we try to actively reject the Lecture style teaching approach \(i.e. one person talking for four hours\) and move to a structure where
+
+* No one person dominates the lesson
+* We use lots of people to provide individual support
+* We promote group based activities 
+
+#### Lesson Structure
+
+Our 
+
+Broader details about running a class can be found [here](https://docs.codeyourfuture.io/volunteers/running-a-class).
+
+#### Lesson Aims
+
+
+
+### Your Role in the Classroom \(5 minutes\)
+
+A full description of a Lead Teachers Role can be found [here](https://teachertraining.codeyourfuture.io/roles/lead-teacher/role)
+
+### Teaching Checklist \(10 minutes\)
+
+The Teaching Checklist can be found [here](https://docs.google.com/spreadsheets/u/1/d/1rQcHKMO-X_2F2docy_NCzSZhY2qASLdd_hrNkYC5FUw/edit#gid=0)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1rQcHKMO-X\_2F2docy\_NCzSZhY2qASLdd\_hrNkYC5FUw/edit\#gid=0" %}
+
+
 
 ### Preparing For A Class \(20 minutes\)
 
-The Syllabus
+The Syllabus is our single source of truth for 
 
 ### What is Bad Teaching? \(20 minutes\)
 
@@ -104,14 +136,6 @@ The rest of this session will be focusing on fixing three of the issues raised i
 2. How to tell if your students are understanding what you taught
 3. How to do remote teaching well
 
-### Class Engagement \(40 Minutes\)
-
-See the [Are They All Engaged?](../../content/are-they-all-engaged.md) lesson
-
-### Student Understanding \(40 Minutes\)
-
-See the [Do they understand what I taught?](../../content/do-they-understand-what-i-taught.md) lesson
-
 ### Remote Teaching \(15 minutes\)
 
 #### Dissolve the Screen
@@ -135,7 +159,15 @@ What does the teacher do to "Dissolve the Screen"?
   * Teaching is theatre
   * Act as if you had an audience
 
-## Further Reading
+## Further Reading & Coursework
 
 In the rest of this website you'll find videos of previous teach training sessions - you're encouraged to watch the ones that interest you. 
+
+### Class Engagement \(40 Minutes\)
+
+See the [Are They All Engaged?](../../content/are-they-all-engaged.md) lesson
+
+### Student Understanding \(40 Minutes\)
+
+See the [Do they understand what I taught?](../../content/do-they-understand-what-i-taught.md) lesson
 
