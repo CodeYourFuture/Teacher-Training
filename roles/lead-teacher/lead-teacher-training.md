@@ -58,7 +58,7 @@ We aim for all of our lessons to be community events. This means that we try to 
 
 #### Lesson Structure
 
-Our 
+Our lessons are broadly structures
 
 Broader details about running a class can be found [here](https://docs.codeyourfuture.io/volunteers/running-a-class).
 
