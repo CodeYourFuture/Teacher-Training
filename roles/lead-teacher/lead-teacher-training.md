@@ -64,7 +64,13 @@ Broader details about running a class can be found [here](https://docs.codeyourf
 
 #### Lesson Aims
 
+The aims of our lessons are too
 
+* Introduce new concepts in a managed and pedagogically good way
+* Prepare our students for their coursework
+* Provide community and support for the students \(and for you!\)
+
+Most of the learning in our course does **not** happen in the classroom. It happens during the 10-20 hours of coursework that the students have each week. 
 
 ### Your Role in the Classroom \(5 minutes\)
 
