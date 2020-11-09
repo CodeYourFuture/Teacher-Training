@@ -82,8 +82,6 @@ The Teaching Checklist can be found [here](https://docs.google.com/spreadsheets/
 
 {% embed url="https://docs.google.com/spreadsheets/d/1rQcHKMO-X\_2F2docy\_NCzSZhY2qASLdd\_hrNkYC5FUw/edit\#gid=0" %}
 
-
-
 ### Preparing For A Class \(20 minutes\)
 
 The Syllabus is our single source of truth for 
