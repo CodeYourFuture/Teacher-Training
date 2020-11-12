@@ -58,7 +58,13 @@ We aim for all of our lessons to be community events. This means that we try to 
 
 #### Lesson Structure
 
-Our lessons are broadly structures
+Our lessons are broadly structured so that there is a small amount of teaching followed by a short exercise to put into practice what they've just seen.
+
+The taught content can \(and should\) take the form of a variety of techniques including 
+
+* Short lectures
+* Taught examples
+* Live coding
 
 Broader details about running a class can be found [here](https://docs.codeyourfuture.io/volunteers/running-a-class).
 
@@ -76,12 +82,6 @@ Most of the learning in our course does **not** happen in the classroom. It happ
 
 A full description of a Lead Teachers Role can be found [here](https://teachertraining.codeyourfuture.io/roles/lead-teacher/role)
 
-### Teaching Checklist \(10 minutes\)
-
-The Teaching Checklist can be found [here](https://docs.google.com/spreadsheets/u/1/d/1rQcHKMO-X_2F2docy_NCzSZhY2qASLdd_hrNkYC5FUw/edit#gid=0)
-
-{% embed url="https://docs.google.com/spreadsheets/d/1rQcHKMO-X\_2F2docy\_NCzSZhY2qASLdd\_hrNkYC5FUw/edit\#gid=0" %}
-
 ### Preparing For A Class \(20 minutes\)
 
 The Syllabus is our single source of truth for what we teach at CodeYourFuture - however that doesn't mean it's the end of what you should teach.
@@ -90,7 +90,17 @@ Everything we do
 
 * Developing content takes roughly 5x the time it takes to deliver it
   * All of our content should be well planned, have instructor notes and have supporting coursework
+  * Content should have well thought out exercises with solutions provided
   * It should be structured into the curriculum in the right way
+* Making slides/notes is the best way to prepare
+  * Make sure you understand the exercises
+  * Add your resources/notes to the Syllabus when you're done
+* In the end the Syllabus is a tool, not a set of instructions
+  * Use it to help you teach better
+  * Don't be afraid to remix, change or edit it.
+  * You know your students better than any of us, don't push forward just because the syllabus says so
+  * Don't be afraid to add more time to the lesson or module
+  * You're goal is to deliver the Learning Objective and prepare the students for the homework
 
 ### What is Bad Teaching? \(15 minutes\)
 
@@ -146,28 +156,54 @@ The rest of this session will be focusing on fixing three of the issues raised i
 2. How to tell if your students are understanding what you taught
 3. How to do remote teaching well
 
-### Remote Teaching \(15 minutes\)
+### Better Teaching \(15 minutes\)
 
-#### Dissolve the Screen
+#### 1\) Dissolve the Screen
 
 To Dissolve the Screen is to heighten students’ awareness of the back-and-forth exchange that still exists between us so they feel it more. For example:
 
 * “I see the work you’re sending me, and it matters”
 * “I’m still here, we’re still connected”
 
-**Start the below video at 1:07**
-
 What does the teacher do to "Dissolve the Screen"?
 
-{% embed url="https://vimeo.com/408761410" %}
+{% embed url="https://vimeo.com/408761410" caption="Start the video at 1:07" %}
 
-#### Leap of Faith
+#### 2\) Leap of Faith
 
 * Teaching remotely can feel very strange
   * \(Why might teaching remotely feel more strange?\)
 * Take the Leap of Faith
   * Teaching is theatre
   * Act as if you had an audience
+* You are always fighting against disengagement
+  * This is doubly true for online teaching
+
+#### 3\) Cold Calling
+
+* Cold Calling feels weird and uncomfortable - even invasive
+  * However, students **appreciate** it
+  * They often respond with how engaged they felt in the lesson even if they don't know this is the reason
+* Don't be discouraged by a bad or incorrect answer, use it as a learning moment
+
+#### 4\) Everyone Responds
+
+* What asking if - for example - everyone understands the task for the exercise ask them to make a physical movement to say if they do 
+  * E.g. a head nod, a thumbs up
+  * It's important that you wait for all of the students to respond. **What they do matters**.
+
+#### 5\)
+
+```text
+Exercise (5 minutes)
+
+Which of these are you MOST likely to try? 
+Which of these are you MOST nervous about trying? 
+```
+
+#### More Ideas?
+
+The Teaching Checklist can be found [here](https://docs.google.com/spreadsheets/u/1/d/1rQcHKMO-X_2F2docy_NCzSZhY2qASLdd_hrNkYC5FUw/edit#gid=0)
 
 ## Coursework
 
