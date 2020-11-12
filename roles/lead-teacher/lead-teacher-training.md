@@ -84,7 +84,13 @@ The Teaching Checklist can be found [here](https://docs.google.com/spreadsheets/
 
 ### Preparing For A Class \(20 minutes\)
 
-The Syllabus is our single source of truth for what we teach at 
+The Syllabus is our single source of truth for what we teach at CodeYourFuture - however that doesn't mean it's the end of what you should teach.
+
+Everything we do 
+
+* Developing content takes roughly 5x the time it takes to deliver it
+  * All of our content should be well planned, have instructor notes and have supporting coursework
+  * It should be structured into the curriculum in the right way
 
 ### What is Bad Teaching? \(15 minutes\)
 
