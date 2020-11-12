@@ -195,7 +195,7 @@ What does the teacher do to "Dissolve the Screen"?
   * E.g. a head nod, a thumbs up
   * It's important that you wait for all of the students to respond. **What they do matters**.
 
-#### 5\) 
+#### 5\) Popcorning
 
 ```text
 Exercise (5 minutes)
@@ -214,9 +214,13 @@ In the rest of this website you'll find videos of previous teach training sessio
 
 ### Class Engagement \(40 Minutes\)
 
-See the [Are They All Engaged?](../../content/are-they-all-engaged.md) lesson
+Watch the [Are They All Engaged?](../../content/are-they-all-engaged.md) lesson
 
 ### Student Understanding \(40 Minutes\)
 
-See the [Do they understand what I taught?](../../content/do-they-understand-what-i-taught.md) lesson
+Watch the [Do they understand what I taught?](../../content/do-they-understand-what-i-taught.md) lesson
+
+### What Are They All Thinking \(40 Minutes\)
+
+Watch the [What are they all thinking?](../../content/what-are-they-all-thinking.md) lesson
 
