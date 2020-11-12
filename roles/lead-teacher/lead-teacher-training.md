@@ -40,6 +40,10 @@ We do not expect you
 
 * To have any professional teaching or pedagogical experience
 
+## Slides
+
+[https://docs.google.com/presentation/d/1IZUG4oxBqzQ-b\_0S\_cEv3lFUO0fZWCPXJK8kxUYZBAw/edit?usp=sharing](https://docs.google.com/presentation/d/1IZUG4oxBqzQ-b_0S_cEv3lFUO0fZWCPXJK8kxUYZBAw/edit?usp=sharing)
+
 ## Training
 
 ### Introduction \(5 minutes\)
@@ -86,25 +90,30 @@ A full description of a Lead Teachers Role can be found [here](https://teachertr
 
 The Syllabus is our single source of truth for what we teach at CodeYourFuture - however that doesn't mean it's the end of what you should teach.
 
-Everything we do 
+Everything we do is welcome to be remixed and changed as you see fit. however
 
-* Developing content takes roughly 5x the time it takes to deliver it
+* Developing content takes roughly 4-5x the time it takes to deliver it
   * All of our content should be well planned, have instructor notes and have supporting coursework
   * Content should have well thought out exercises with solutions provided
   * It should be structured into the curriculum in the right way
+
+That means that for the majoring of the time you will be using material 
+
 * Making slides/notes is the best way to prepare
   * Make sure you understand the exercises
   * Add your resources/notes to the Syllabus when you're done
-* In the end the Syllabus is a tool, not a set of instructions
-  * Use it to help you teach better
-  * Don't be afraid to remix, change or edit it.
-  * You know your students better than any of us, don't push forward just because the syllabus says so
-  * Don't be afraid to add more time to the lesson or module
-  * You're goal is to deliver the Learning Objective and prepare the students for the homework
+
+In the end the Syllabus is a tool, not a set of instructions
+
+* Use it to help you teach better
+* Don't be afraid to remix, change or edit it.
+* You know your students better than any of us, don't push forward just because the syllabus says so
+* Don't be afraid to add more time to the lesson or module
+* You're goal is to deliver the Learning Objective and prepare the students for the homework
 
 ### What is Bad Teaching? \(15 minutes\)
 
-We've all experienced bad teachers in our lives. 
+We've all experienced bad teachers in our lives -  let's talk about them
 
 #### Discussion \(5 Minutes\)
 
@@ -150,12 +159,6 @@ If you need more time, watch the video again to catch everything!
 * Makes a mistake but tells the students to not worry about it
   * A mistake in a lesson can be an important learning moment
 
-The rest of this session will be focusing on fixing three of the issues raised in the video
-
-1. How to keep your class engaged
-2. How to tell if your students are understanding what you taught
-3. How to do remote teaching well
-
 ### Better Teaching \(15 minutes\)
 
 #### 1\) Dissolve the Screen
@@ -192,7 +195,7 @@ What does the teacher do to "Dissolve the Screen"?
   * E.g. a head nod, a thumbs up
   * It's important that you wait for all of the students to respond. **What they do matters**.
 
-#### 5\)
+#### 5\) 
 
 ```text
 Exercise (5 minutes)
