@@ -6,7 +6,7 @@ description: Being a lead teacher is an impactful way to be involved with our st
 
 ## Projected Time
 
-This training will take roughly 120 minutes to complete.
+This training will take roughly 90 minutes to complete.
 
 ## Aims
 
@@ -84,9 +84,9 @@ The Teaching Checklist can be found [here](https://docs.google.com/spreadsheets/
 
 ### Preparing For A Class \(20 minutes\)
 
-The Syllabus is our single source of truth for 
+The Syllabus is our single source of truth for what we teach at 
 
-### What is Bad Teaching? \(20 minutes\)
+### What is Bad Teaching? \(15 minutes\)
 
 We've all experienced bad teachers in our lives. 
 
@@ -96,7 +96,7 @@ What is an experience you've had with a bad teacher? What was it that made that 
 
 _List out the ways that you've experienced bad teaching_
 
-#### Exercise \(15 minutes\)
+#### Exercise \(10 minutes\)
 
 Spend a few minutes watching this video of purposefully bad teaching. 
 
