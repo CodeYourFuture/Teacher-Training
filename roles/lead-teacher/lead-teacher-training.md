@@ -163,7 +163,7 @@ What does the teacher do to "Dissolve the Screen"?
   * Teaching is theatre
   * Act as if you had an audience
 
-## Further Reading & Coursework
+## Coursework
 
 In the rest of this website you'll find videos of previous teach training sessions - you're encouraged to watch the ones that interest you. 
 
