@@ -25,6 +25,7 @@
 
 ## Content
 
+* [Welcome to the Education Team](content/welcome-to-the-education-team.md)
 * [What's different about remote teaching?](content/whats-different-about-remote-teaching.md)
 * [Do they understand what I taught?](content/do-they-understand-what-i-taught.md)
 * [Are they all engaged?](content/are-they-all-engaged.md)
