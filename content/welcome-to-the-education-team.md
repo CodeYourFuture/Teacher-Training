@@ -69,7 +69,13 @@ In practically what this means is the course services that we provide to our stu
 * Dedicated support structures during the week - **our Buddy Mentoring system**
 * A 24 hour community of fellow learners - **our online community on Slack**
 
-These tasks 
+These tasks are broadly separated into roles undertaked by different people at different times.
+
+* [Lead Teacher](../roles/lead-teacher/role.md)
+* Teaching Assistant
+* Syllabus Team
+* Education Buddy
+* Education Director
 
 #### Exercise 
 
