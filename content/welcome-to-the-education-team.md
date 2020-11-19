@@ -8,12 +8,11 @@ This training will take roughly 90 minutes to complete.
 
 By the end of this training you should be able to
 
-* 
-## Motivation
+* Describe the core pedagogy of CodeYourFuture
+* Categorise the responsibilities of different roles at CodeYourFuture
+* Understand your next steps into the Education Team
+* Plan where you want to take your CodeYourFuture journey
 
-This training will be useful to you if 
-
-* 
 ## Prior Knowledge
 
 To take part in this training you are expected to 
@@ -54,7 +53,11 @@ The aims of our lessons are too
 * Introduce new concepts in a managed and pedagogically satisfactory way
 * Provide support and community for the students \(and for you!\)
 
-### What does the Education Team do?
+### Your Journey with CodeYourFuture
+
+![](../.gitbook/assets/untitled-2020-10-23-1334-3-.png)
+
+### Education Team Roles
 
 At it's highest level the mission of the Education Team is to 
 
@@ -83,11 +86,9 @@ In it, you'll find a column of tasks that members of the Education Team undertak
 
 When you've finished we'll re-group and discuss.
 
-### Your "Career" at CodeYourFuture
+### 
 
-
-
-### Tools
+Tools
 
 #### Slack
 
@@ -150,4 +151,8 @@ When you've finished we'll re-group and discuss.
 
 * Offer help to a student this week
 * Read and watch content on the Teacher Training website
+
+## Teacher Resources
+
+{% file src="../.gitbook/assets/education-career-journey.json" caption="Excalidraw File for Journey Diagram Above" %}
 
