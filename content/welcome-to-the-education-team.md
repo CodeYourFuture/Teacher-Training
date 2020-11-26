@@ -61,7 +61,7 @@ The aims of our lessons are too
 
 At it's highest level the mission of the Education Team is to 
 
-> Create an inclusive learning community that communitises failure, encouraged growth through challenge and provides support to those that need it most.
+> Create an inclusive learning community that communitises failure, encourages growth through challenge and provides support to those that need it most.
 
 In practically what this means is the course services that we provide to our students
 
@@ -69,9 +69,9 @@ In practically what this means is the course services that we provide to our stu
 * Dedicated support structures during the week - **our Buddy Mentoring system**
 * A 24 hour community of fellow learners - **our online community on Slack**
 
-These tasks are broadly separated into roles undertaked by different people at different times.
+These tasks are broadly separated into roles under taked by different people at different times.
 
-* [Lead Teacher](../roles/lead-teacher/role.md)
+* Lead Teacher
 * Teaching Assistant
 * Syllabus Team
 * Education Buddy
@@ -92,48 +92,49 @@ In it, you'll find a column of tasks that members of the Education Team undertak
 
 When you've finished we'll re-group and discuss.
 
-### 
-
-Tools
+### Tools
 
 #### Slack
 
-#### Syllabus
+On your journey to becoming a volunteer at CodeYourFuture you will recieve access to our Slack Workspace. This is where all of our communication happens and were are classes take place.
 
-#### Docs Website
+If you haven't already we ask you to
+
+* Set your name as your real name
+* Set your display picture as picture of you \(or a cartoon picture of you if you'd prefer\)
+
+In addition to the normal rules of Slack \(e.g. use Threads, don't use @channel, etc \) we operate on a single golden rule
+
+> **Communicate, coordinate and collaborate in public channels**
+
+We're a large and growing organisation where information needs to flow smoothly - it's one of our key challenges. By communicating in direct messages or in private channels it makes it really hard for people to stay up to date why the schools. 
+
+
 
 #### Github
 
+We use Github to store and review homework for the students. You'll often find it linked from the Syllabus. 
+
+For now, the most important part is that you are added as a collaborator to our \`Mentors\` Github Team
+
+[https://github.com/orgs/CodeYourFuture/teams/mentors](https://github.com/orgs/CodeYourFuture/teams/mentors)
+
+#### Syllabus
+
+Our Syllabus is the home to all of our Tech Education Teaching Content
+
+{% embed url="https://syllabus.codeyourfuture.io/" %}
+
+#### Docs Website
+
+Our Docs website is where we keep all of our day to day operations materials. 
+
+{% embed url="https://docs.codeyourfuture.io/" %}
+
+#### 
 
 
-* Slack Etiquette
-  * Which channels to join
-  * Post in Public Channels
-  * Use a Display Picture of you \(if you're comfortable\) etc etc etc
-* The Pedagogy of CYF
-  * Communitised Learning
-  * Anti-Lecture Style
-  * Fear Reducing Lessons
-* How we're organised
-  * What is the Volunteer “Career” Progression at CYF
-    * The journey: application -&gt; ITC -&gt; selection -&gt; FS -&gt; final projects
-  * Past experience for each role
-  * Roles
-    * Director of Education
-    * Buddy
-    * Lead Teacher
-    * Assistant Lead Teacher
-    * Zoom Admin
-    * Teaching Assistant
-  * Teams
-    * Education Teams in Cities
-    * Syllabus Teams
-* Tools
-  * Syllabus
-  * Google Classroom
-  * Docs Website
-  * Github
-    * Invite to the CYF Github Team
+
 * How to get help?
   * Who to speak to
   * Where to ask for help
