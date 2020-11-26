@@ -89,10 +89,12 @@ In it, you'll find a column of tasks that members of the Education Team undertak
 
 {% embed url="https://docs.google.com/spreadsheets/d/1xRlXoQktyIx0-YOb-UZWGm8sFuVUl2MHC8mXnv1vC70/edit\#gid=128160130" %}
 
-1. Create a Copy of this Google Sheet
-2. Share your screen with your group
-3. Copy & Paste each of the tasks in to each column
-   1. Each task might fit into more than one column!
+1. Split into Groups
+2. One person, create a Copy of this Google Sheet
+3. Share your screen with your group
+4. Copy & Paste each of the tasks in to each column as you see fit.
+
+**Note**: Each task might fit into more than one column!
 
 When you've finished we'll re-group and discuss.
 
@@ -161,8 +163,6 @@ Spend five minutes either reading through the Docs or the Syllabus and I want yo
 
 We'll then come back and discuss
 
-
-
 ### Your First Role at a Teaching Assistant
 
 More details about your role can be found [here](../roles/teaching-assistant/)
@@ -172,21 +172,6 @@ More details about your role can be found [here](../roles/teaching-assistant/)
 #### Job Vacancies
 
 We graduate a large number of students all across the UK and so are always looking for Junior Positions for our graduates - please ask your HR department at work!
-
-
-
-* How to get help?
-  * Who to speak to
-  * Where to ask for help
-  * How to stay engaged
-* Who’s who in Education at CYF?
-* Tips for Teaching and Mentoring
-* What is the role of a TA?
-  * Time commitments
-  * What do you do in class?
-* What other ways can you help?
-* Employment/recruitment support and how EDU people can help \(networking, jobs description\)
-* Edu Team & Tech Project team cross over?
 
 ## Next Steps
 
