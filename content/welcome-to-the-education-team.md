@@ -159,9 +159,17 @@ We'll then come back and discuss
 
 
 
-## Your First Role at a Teaching Assistant
+### Your First Role at a Teaching Assistant
 
 More details about your role can be found [here](../roles/teaching-assistant/)
+
+### Creating Impact Now
+
+#### Job Vacancies
+
+We graduate a large number of students all across the UK and so are always looking for Junior Positions for our graduates - please ask your HR department at work!
+
+
 
 * How to get help?
   * Who to speak to
