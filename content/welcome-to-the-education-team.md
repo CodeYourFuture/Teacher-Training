@@ -22,6 +22,10 @@ To take part in this training you are expected to
 
 ## Slides
 
+{% embed url="https://docs.google.com/presentation/d/1cnVCT6zxoxT1s4IMu90XvXep33ydPa0yIO8w6EMDM9Y/edit?usp=sharing" caption="https://docs.google.com/presentation/d/1cnVCT6zxoxT1s4IMu90XvXep33ydPa0yIO8w6EMDM9Y/edit" %}
+
+
+
 
 
 ## Training <a id="docs-internal-guid-39b630af-7fff-3699-365c-27123d2f9a26"></a>
