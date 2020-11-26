@@ -2,18 +2,15 @@
 
 * [Welcome to Teacher Training at CodeYourFuture](README.md)
 
-## Roles
+## Role Training <a id="roles"></a>
 
 * [Lead Teacher](roles/lead-teacher/README.md)
-  * [Role](roles/lead-teacher/role.md)
   * [Training](roles/lead-teacher/lead-teacher-training.md)
 * [Teaching Assistant](roles/teaching-assistant/README.md)
-  * [Role](roles/teaching-assistant/role.md)
+  * [Training](roles/teaching-assistant/training.md)
 * [Syllabus Contributor](roles/syllabus-contributor/README.md)
-  * [Role](roles/syllabus-contributor/syllabus-contributor.md)
   * [Training](roles/syllabus-contributor/syllabus-contributor-training.md)
 * [Education Buddy](roles/education-buddy/README.md)
-  * [Role](roles/education-buddy/role.md)
   * [Training](roles/education-buddy/education-buddy-training.md)
   * [Mentoring Session Plan](roles/education-buddy/mentoring-session-plan.md)
 * [Homework Mentor](roles/homework-mentor/README.md)
