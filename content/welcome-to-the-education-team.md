@@ -69,7 +69,7 @@ In practically what this means is the course services that we provide to our stu
 * Dedicated support structures during the week - **our Buddy Mentoring system**
 * A 24 hour community of fellow learners - **our online community on Slack**
 
-These tasks are broadly separated into roles under taked by different people at different times.
+These tasks are broadly separated into roles undertaken by different people at different times.
 
 * Lead Teacher
 * Teaching Assistant
@@ -109,7 +109,23 @@ In addition to the normal rules of Slack \(e.g. use Threads, don't use @channel,
 
 We're a large and growing organisation where information needs to flow smoothly - it's one of our key challenges. By communicating in direct messages or in private channels it makes it really hard for people to stay up to date why the schools. 
 
+With that said there are some recommended channel that you join. Firstly, you should join the cities associated with you City. They will always be named with the name of your city at the front.
 
+For example, if you are attending in the West Midlands you would want to join
+
+> westmidlands, westmidlands-edu, westmidlands-class1
+
+Any channels with the prefix _cyf-_ are global channels. 
+
+You will also want to join the public channels associated with the syllabus. Firstly, there is 
+
+> cyf-syllabus
+
+For generic Syllabus discussion 
+
+Then there are the specific module channels, for example
+
+> cyf-module-html-css, cyf-module-node, cyf-module-mongodb
 
 #### Github
 
@@ -131,9 +147,9 @@ Our Docs website is where we keep all of our day to day operations materials.
 
 {% embed url="https://docs.codeyourfuture.io/" %}
 
-#### 
+## Your First Role at a Teaching Assistant
 
-
+More details about your role can be found [here](../roles/teaching-assistant/)
 
 * How to get help?
   * Who to speak to
