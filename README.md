@@ -25,3 +25,7 @@ This is a living document. Expect it to change and grow over time. If you'd like
 * Docs
   * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
 
+## Editing this Website
+
+This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Coordinator.
+
