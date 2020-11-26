@@ -147,6 +147,18 @@ Our Docs website is where we keep all of our day to day operations materials.
 
 {% embed url="https://docs.codeyourfuture.io/" %}
 
+#### Exercise
+
+Spend five minutes either reading through the Docs or the Syllabus and I want you to select two items that you either 
+
+* Didn't know about CYF before reading
+* Found interesting
+* Stood out as being unusual
+
+We'll then come back and discuss
+
+
+
 ## Your First Role at a Teaching Assistant
 
 More details about your role can be found [here](../roles/teaching-assistant/)
