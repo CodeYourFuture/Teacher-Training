@@ -109,9 +109,13 @@ If you haven't already we ask you to
 * Set your name as your real name
 * Set your display picture as picture of you \(or a cartoon picture of you if you'd prefer\)
 
-In addition to the normal rules of Slack \(e.g. use Threads, don't use @channel, etc \) we operate on a single golden rule
+In addition to the normal rules of Slack \(e.g. use Threads, don't use @channel, etc \) we operate on a these golden rules
 
-> **Communicate, coordinate and collaborate in public channels**
+> _1\) Communicate, coordinate and collaborate in public channels_
+>
+> _2\) Discuss students in private channels_
+>
+> _3\) Do not use direct messages \(were possible\)_
 
 We're a large and growing organisation where information needs to flow smoothly - it's one of our key challenges. By communicating in direct messages or in private channels it makes it really hard for people to stay up to date why the schools. 
 
