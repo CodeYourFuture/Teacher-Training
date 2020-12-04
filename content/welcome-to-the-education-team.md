@@ -169,13 +169,13 @@ We'll then come back and discuss
 
 ### Your First Role at a Teaching Assistant
 
-More details about your role can be found [here](../roles/teaching-assistant/)
+#### How Classes Work
 
-### Creating Impact Now
+More details on how classes are run can be found [here](https://docs.codeyourfuture.io/course-processes/running-the-course/running-a-class).
 
-#### Job Vacancies
+#### What you'll be expected to do?
 
-We graduate a large number of students all across the UK and so are always looking for Junior Positions for our graduates - please ask your HR department at work!
+More details about your role can be found [here](../roles/teaching-assistant/).
 
 ## Next Steps
 
