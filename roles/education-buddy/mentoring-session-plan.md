@@ -20,7 +20,7 @@ You should always begin with talking about them but don't be afraid to talk abou
 
 ### Goal Catch-Up \(5 minutes\)
 
-Make sure you hold your students accountable to not completing the goals that you set for them - it's important that you show that they are important.
+Make sure you hold your students accountable to completing the goals that you set for them - it's important that you show that they are important.
 
 ### Recap & Orientation \(10 minutes\)
 
