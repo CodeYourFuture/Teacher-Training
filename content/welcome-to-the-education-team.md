@@ -175,7 +175,7 @@ More details on how classes are run can be found [here](https://docs.codeyourfut
 
 #### What you'll be expected to do?
 
-More details about your role can be found [here](../roles/teaching-assistant/).
+More details about your role can be found [here]().
 
 ## Next Steps
 

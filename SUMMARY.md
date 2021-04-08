@@ -6,8 +6,6 @@
 
 * [Lead Teacher](roles/lead-teacher/README.md)
   * [Training](roles/lead-teacher/lead-teacher-training.md)
-* [Teaching Assistant](roles/teaching-assistant/README.md)
-  * [Training](roles/teaching-assistant/training.md)
 * [Syllabus Contributor](roles/syllabus-contributor/README.md)
   * [Training](roles/syllabus-contributor/syllabus-contributor-training.md)
 * [Education Buddy](roles/education-buddy/README.md)

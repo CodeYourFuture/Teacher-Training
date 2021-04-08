@@ -18,12 +18,17 @@ This is a living document. Expect it to change and grow over time. If you'd like
 
 ## Existing Resources
 
-* Teaching Tech Together
-  * [https://teachtogether.tech/](https://teachtogether.tech/)
 * Syllabus
   * [https://syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io)
 * Docs
   * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
+* Personal Development
+  * [https://personaldevelopment.codeyourfuture.io](https://personaldevelopment.codeyourfuture.io/)
+
+## Useful Resources
+
+* Teaching Tech Together
+  * [https://teachtogether.tech/](https://teachtogether.tech/)
 
 ## Editing this Website
 
