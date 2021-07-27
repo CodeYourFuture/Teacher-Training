@@ -5,6 +5,7 @@
 ## Role Training <a id="roles"></a>
 
 * [Lead Teacher](roles/lead-teacher/README.md)
+  * [Teaching a Session at CYF](roles/lead-teacher/teaching-a-session-at-cyf.md)
   * [Training](roles/lead-teacher/lead-teacher-training.md)
 * [Syllabus Contributor](roles/syllabus-contributor/README.md)
   * [Training](roles/syllabus-contributor/syllabus-contributor-training.md)
