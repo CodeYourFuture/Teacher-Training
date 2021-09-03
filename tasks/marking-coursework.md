@@ -21,19 +21,25 @@ and
 
 * Coding Challenges
 
-At the end of each week, students submit homework these challenges and we assess and give feedback on them. **This feedback is a vital part of our students development.**
+At the end of each week, students submit homework these challenges and we give feedback on them. **This feedback is a vital part of our students development.**
 
-## **Homework Marking Process**
+## **Technical Mentorship: Process**
 
 ### **1\) Finding Coursework**
 
 Coursework including code is always hosted as a Pull Request on GitHub. 
 
-Every week of the course has some coursework attached to it. If you are an Education Buddy it can be easiest to have your buddy send you the homework to review. If not there are more instruction in [Where do students submit coursework?](marking-coursework.md#where-do-students-submit-coursework)
-
-Additionally, you can also find all of a students open pull requests by using  
+Every week of the course has some coursework attached to it. Students open a pull request and unit tests are run. You might want to set up [code review assignment](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team) system in your buddy team.  
   
-[https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3A](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AChrisOwen101) + {GITHUB+ID}
+[Where do students submit coursework?](marking-coursework.md#where-do-students-submit-coursework)
+
+You can find all of a students open pull requests by using  
+  
+[https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3A](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AChrisOwen101)${author}
+
+And you can fetch from the GH Search API like this if you want to set up a notification:
+
+[https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}\`](https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}`)
 
 ```text
 Exercise 1 (5 minutes)
@@ -62,13 +68,13 @@ If you can tell that a student has been struggling with a particular area of the
 2. Re-assure them that many people struggle with such problems
 3. Direct them to an online resource that will help them understand the problem better
 
-We should try to shy away from writing long, complex explanations to students problems. This can be a time sink, especially when great resources already exist.
+We should try to shy away from writing long, complex explanations to students problems. This can be a time sink, especially when great resources already exist. Try to spend as much time directly interacting with your trainees as you can. In other words: talk to them.
 
 _Please note_: Do not just link to documentation! Link to a tutorial or guide that explains the documentation.
 
 **Fixing Bugs**
 
-If the bug is a simple compilation or formatting error it's perfectly fine to suggest a fix to the issue. For example, an incorrect relative URL is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed.
+If the bug is a simple compilation or formatting error it's perfectly fine to suggest a line fix to the issue. For example, an incorrect relative URL is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed.
 
 **Prompting to Ask Questions**
 
@@ -84,7 +90,7 @@ If they seem to fundamentally misunderstand a concept then it is best to refer t
 
 It never hurts to remind the student of the importance of proper formatting and indentation.
 
-All code that our students write should follow our Code Style Guide \([coming soon!](https://github.com/CodeYourFuture/syllabus/issues/105)\).
+All code that our students write should follow our[ Style Guide](https://syllabus.codeyourfuture.io/guides/code-style-guide). It's ok to remind them to self review this. 
 
 #### Quickly Giving Feedback
 
@@ -94,7 +100,7 @@ The VS Code studio plug-in can help speed up moving between pull requests and ma
 
 [https://github.com/microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
 
-It allows you to make comments from directly inside and VS Code and allows each comparision between Pull Requests.
+It allows you to make comments from directly inside and VS Code and allows each comparison between Pull Requests.
 
 **Github Desktop**
 
@@ -104,19 +110,15 @@ Simply navigate to the Branch tab at the top of the screen then select the Pull 
 
 ### **3\) Grading Coursework**
 
-For our records and to track student progress it is important that we track how well the student is progressing through our course. This can happen in a variety of places.
+It is important that we track how well the student is doing on course, so we can support each student as an individual and respond effectively to their challenges. This can happen in a variety of places, but there should be one Single Source of Truth \(SSOT\).
 
 * Class Tracking Spreadsheet
 * Google Classroom
 * Trello Cards
 
-Please consult your Class Coordinators for the best place to record this information as it will vary from class to class.
+Please check in with your team to find out where their SSOT is and how best to update it.
 
-This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
-
-Although grading makes the tracking easier, we aim to give students feedback rather than grades.
-
-Please review our Marking Guide in the Syllabus for more details about Grading.
+If you'd like to do more intensive marking with your trainees, there is further reading here:
 
 {% embed url="https://syllabus.codeyourfuture.io/guides/marking-guide" %}
 
@@ -126,17 +128,13 @@ Please review our Marking Guide in the Syllabus for more details about Grading.
 
 When you have given feedback it is important you add the label "_**reviewed**_".
 
-If the homework has not been completed you should also add the tag "_**not-completed**_"
+If the homework has not been completed you should also add the tag "_**not-completed**_" 
 
-These labels help us to tell which coursework is still needing to be marked each week. 
+### **5\) Tracking progress**
 
-### **5\) Recording Grade**
+It is important to track our students in one central location, so information doesn't get lost and so we can see who needs help and with what. Most commonly, you will do this in a Google Spreadsheet. 
 
-As mentioned earlier, it is important to record your students grades in a single, accessible location.
-
-Most commonly, you will be recording this in a Google Spreadsheet. 
-
-Please consult your Class Coordinators for the best place to record this information as it will vary from class to class.
+Please consult your team as each school approaches this differently.
 
 ## Where do students submit coursework?
 
