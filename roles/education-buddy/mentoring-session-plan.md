@@ -6,7 +6,7 @@ description: A tool for you to use to structure your calls with your students
 
 ## Brief
 
-You can use this plan to structure the time with your students. But if you've got a better idea, please go with it. These are tools for you to use, not direction to follow.
+You can use this plan to structure the time with your students. But if you've got a better idea, please go with it. These are tools for you to use, not directions to follow.
 
 ## Mentoring Session
 
@@ -18,7 +18,7 @@ Begin with talking about them but don't be afraid to talk about yourself. Sharin
 
 ### Goal Catch-Up \(5 minutes\)
 
-Make sure you hold your team accountable to achieving the goals you set together. It's important that you show that they are important. Learning to prioritise and deliver results is part of what some trainees are learning here.
+Make sure you hold your team accountable to achieving the goals you set together. It's important that you show that goals matter and not meeting them has consequences. Learning to prioritise and deliver results is part of what some trainees are learning here.
 
 ### Recap & Orientation \(10 minutes\)
 
