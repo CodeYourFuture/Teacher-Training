@@ -6,25 +6,23 @@ description: A tool for you to use to structure your calls with your students
 
 ## Brief
 
-Below you will find an example session plan that you can use to structure the time with your students. 
-
-You are encouraged to add, remove and change this plan as you see fit - this plan should give you a basis to work from.
+You can use this plan to structure the time with your students. But if you've got a better idea, please go with it. These are tools for you to use, not direction to follow.
 
 ## Mentoring Session
 
 ### Welcome & Chit Chat \(10 minutes\)
 
-Open the session with some chat about their lives and what they've been doing recently. One of the most critical parts of the mentoring scheme is the relationships that our built over the course and the trust that is developed from that.
+Open the session with some chat about their lives and what they've been doing recently. Building a strong relationship with mutual trust and respect is central to the buddy role.
 
-You should always begin with talking about them but don't be afraid to talk about yourself - they're always interested in what you do as well!
+Begin with talking about them but don't be afraid to talk about yourself. Sharing with each other is how we bond. You might like to play a quick game together. We keep a list of [developer thinking games](https://fundamentals.codeyourfuture.io/other-resources/brain-games) you can play online. 
 
 ### Goal Catch-Up \(5 minutes\)
 
-Make sure you hold your students accountable to completing the goals that you set for them - it's important that you show that they are important.
+Make sure you hold your team accountable to achieving the goals you set together. It's important that you show that they are important. Learning to prioritise and deliver results is part of what some trainees are learning here.
 
 ### Recap & Orientation \(10 minutes\)
 
-It's important to orient yourself to what the student has been working recently so that you can help them. You'll want to answer the following questions
+It's important to orient yourself to what the trainees have been working on recently so that you can focus your time. Consider running a three minute retro on:
 
 1. What did they do in the last lesson?
 2. What was the homework for the last lesson?
@@ -36,24 +34,26 @@ For the areas that the student did not understand try to pick apart what _exactl
 
 The recommended approach is to use [_Extend & Explain_](https://docs.google.com/presentation/d/1b23cdD2u2difmxSpEulD_KdBUfOiqCNB8TwAs23bHgM/edit#slide=id.g981ead9fdd_1_17) __but you are welcome to use any method you like. 
 
-Take care to take notes on what exactly the don't understand. Remember [PEA](education-buddy-training.md#feeding-back-to-the-team)!
+You'll find it helpful to take notes. Remember [PEA](education-buddy-training.md#feeding-back-to-the-team)!
 
 ### Goal Setting \(10+ minutes\)
 
-To get the most of your students you must set goals for them to achieve by the the next time you speak. Goals are important to a students development as they keep pushing them towards growth in a personalised way.
+Set goals as a group and hold each other accountable. Lead by example here by setting your own goals, perhaps around feedback on coursework or bringing resources to the group.  Set a deadline and make a commitment to each other to meet it. 
 
-Wherever possible - remember to keep your goals [SMART](https://www.mindtools.com/pages/article/smart-goals.htm). The goals you set should most importantly be achievable by the students in the time that they have available.
+Goals are a key strategy to push towards growth in a personalised way. It's important your trainees set their own goals, though you should guide them as they learn to do this.
+
+Keep your goals [SMART](https://www.mindtools.com/pages/article/smart-goals.htm). The goals you set should be achievable in the time everyone has available.
 
 ### Wrap Up \(5 minutes\)
 
 For anything that you didn't get to in your mentoring session direct them towards resources to help them. For example
 
-* Tell them - not ask them - to share their problems in their Slack channel
+* Tell them - not ask them - to share their problems in their Slack channel - work with them on asking technical questions, it's a superpower!
 * Direct them towards online materials to help them
 * Tell them to go to a study group or to partake in peer learning when you're unavailable
 * And finally - schedule follow up calls 
 
-Spend your final few moments encouraging them and how well they've done on the session - try to find specific moments that they made progress over the past week. 
+Spend your final few moments encouraging them and how well they've done on the session - try to find specific moments that they made progress over the past week. All our trainees work hard and that should be recognised and celebrated.
 
 
 
