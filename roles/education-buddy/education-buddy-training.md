@@ -85,7 +85,7 @@ Take a quick look at the [syllabus](https://syllabus.codeyourfuture.io/) to see 
 At the highest level when you speak to your trainees you will
 
 1. Hold them accountable to their commitments and goals, mainly around submitting coursework
-2. Find out how challenging they are finding the work and what futher resources and support they need
+2. Find out how challenging they are finding the work and what further resources and support they need
 3. Check and develop their understanding
 
 As you become more experienced you will develop your own style and pacing to the sessions. 
@@ -94,7 +94,7 @@ Some ways to check understanding and develop technical skills
 
 * Ask the trainee to talk through their code
 * Ask the trainee to add a new small feature to their coursework, or refactor something
-* Complete a programming challenge \(many of these can be found in [the syllabus](https://syllabus.codeyourfuture.io/)\)
+* Complete a programming challenge \(look in [the syllabus](https://syllabus.codeyourfuture.io/)\)
 
 ### Feeding Back To The Team
 
