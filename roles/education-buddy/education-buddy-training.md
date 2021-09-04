@@ -70,13 +70,13 @@ You will also attend a weekly meeting with your Buddy volunteer team. This meeti
 
 Buddy groups meet every two weeks. \(Some Buddies run standups more often.\) 
 
-In these sessions you will identify blockers and talk/live code through them. You will do code review and give coursework feedback. You will reassure them and empathise with the immense challenge they are facing. It is really really hard! 
+In these sessions you will identify blockers and talk/live code through them. You will do code review and give coursework feedback. You will reassure them and empathise with the immense challenge they are facing. This thing we are doing together is really really hard! 
 
 You will also facilitate access to resources, including mentoring support, online study resources and access to study groups or peer learning. Developing your trainees to lead their own study groups is a great way to empower them in their own learning.
 
 #### Before The Call
 
-Consider getting [Calend.ly](http://calend.ly) or similar so that students can book in times with you that work for them. This will save a significant amount of time when you are trying to work out a time that works for both of you.
+Consider getting [Calend.ly](http://calend.ly) or Doodle etc so that your team can book in times with you that work for them. This will save a significant amount of time and faffing around! You might schedule your meeting for the same time each fortnight; it depends what people can reasonably do.
 
 Take a quick look at the [syllabus](https://syllabus.codeyourfuture.io/) to see what the student is working on.
 
@@ -98,29 +98,29 @@ Some ways to check understanding and develop technical skills
 
 ### Feeding Back To The Team
 
-Depending on your team you will decide to meet every week or two weeks to discuss the progress that the students are making through the module. Especially earlier in the course it is important that you detect and report any student that are falling behind so that they can get the support they need.
+Depending on your team you will decide to meet every week or two weeks to discuss course progress. Especially earlier in the course it is important that you flag up those falling behind so that we can get the support they need in time. It's also helpful to flag up trainees who could use some extension work.
 
-In these sessions try to be as succinct as possible. It will be tempting to spend time talking about the students who are doing well but it is important that you give adequate time discussing the problems that the struggling students are having.
+In these sessions try to be as succinct as possible. It will be tempting to spend time talking about people who are doing well but it is important that you also give time to  addressing problems.
 
-In your sessions, try to work out students who are struggling in the same ways or in the same areas. This can be key to finding holes in their education and can be leveraged to make the best use of your time.
+In your sessions, try to notice who is struggling in the same ways or in the same areas. Sharing problems \(and solutions\) with the team is wise.
 
-Where possible feedback should be 
+Feedback should be 
 
 1. Precise
 2. Evidence Based
 3. Actionable
 
-For example, a less useful piece of feedback might look like
+A less useful piece of feedback might be:
 
-> The student is struggling with their JavaScript homework and is generally lost in lessons
+> NAME is struggling with their JavaScript homework and is generally lost in lessons
 
 This piece of feedback is not precise - which part of the homework are they struggling with? - it is not evidence based - how do you know they are struggling? - and it is not actionable - how would we be able to help the student with this statement?
 
 A better piece of feedback might be 
 
-> The student has struggled to do the homework because they do not understand functions. They could not work out how to return a variable from a function.
+> NAME has struggled to do the homework because they do not understand functions. They could not work out how to return a variable from a function.
 
-This is better because we can more easily work out how to help the student. 
+This is better because we can more easily work out how to help NAME. 
 
 ```text
 Exercise 2 (10 Minutes)
@@ -142,14 +142,14 @@ You should rank them in order of how useful the comment is to judge how a studen
 If you discover that your student has fallen behind or has struggled to understand some part of the course then you have several tools at your disposal.
 
 * **Technical Mentoring -** When you have time, specific Technical Mentoring can be a really impactful way to help your students
-* **Organised Study Groups** - Ask your course coordinator or other buddies to see if there are any organised study groups this week. For most students, dedicated time with a mentor can be a great way to catch up with the course
-* **Encouraging Team Work** - Overwhelmingly, the greatest source of help that a student can get is from their fellow students. Encourage the student to setup mid-week calls with the rest of the students in their class to get help. If the student is resistant to this idea, consider setting up their first calls with them on a public channel and invite others. 
+* **Organised Study Groups** - Ask other Buddies if they are running an open study group this week. For most students, dedicated time with a mentor can be a great way to catch up with the course
+* **Encouraging Team Work** - The _best_ support a trainee can get is from their fellow trainees. Building and working in teams is essential for our trainees' success. Encourage trainees to set up and lead study groups. You can bring this in gently; it can be scary and hard. Consider setting up the first calls and invite others. Do this in public and lead by example.
 * **Organising a Break Week** - If lots of students have not understood some concepts adding a break week can be good way to make sure that students have enough time to catch up.
 
 If a student is struggling with time management and dedicating enough time the course you can try these tools
 
-* **Daily Stand-up** - Ask the student to send you a message every morning about their progress over the past day. It's fine for them to say they've done nothing - the aim of this exercise is to build a habit of consistent working - not to shame the student into working every day. 
-* **Study Plans** - If a student is struggling to find time to work on their homework a good tactic is to work with them on a Study Plan that accurately plans out their week. \(It can also be useful to work with their Personal Development Mentor on this plan\)
+* **Daily Stand-up** - Ask the trainee to send you a message every morning about their progress over the past day, or create a Slack bot to do this. It's fine for them to say they've done nothing - the aim of this exercise is to build a habit of consistent working - not to shame trainees into working every day. 
+* **Study Plans** - A good tactic is to work with them on a Study Plan that accurately plans out their week. \(It can also be useful to work with their Personal Development Mentor on this plan\)
 
 ```text
 Exercise 3 (10 minutes)
@@ -163,17 +163,17 @@ What techniques have you used in the past?
 
 ### **Technical Mentoring** 
 
-Hosting a short call with the students for some technical mentoring is a great way to build a relationship with your students. 
+Hosting a short call for some technical mentoring is a great way to build a relationship with your trainees. 
 
-When you're working with your student there are a few rules that you should follow
+When you're working with your trainees there are a few rules that you should follow
 
 **1. Don't touch the keyboard**
 
-It is vitally important that no matter how great the temptation the student should always be in control of the keyboard. 
+It is vitally important that no matter how great the temptation the learner should always be in control of the keyboard. 
 
 **2. You're there to guide - not to tell**
 
-When you are mentoring your role is to help the student get to the solution themselves and not simply complete the exercise. There is absolutely no need for you to complete the exercises. There is no CYF hotel desperately waiting for bookings. The point of the work is for the trainee to work the problem and develop their skills.
+When you are mentoring, your role is to help the trainee get to the solution themselves and not simply to complete the exercise. There is absolutely no need for you to complete the exercises. There is no CYF hotel desperately waiting for bookings. The point of the work is for the trainee to work the problem and develop their skills.
 
 Actively consider whether you should be:
 
@@ -190,17 +190,19 @@ Each of these has appropriate places, but prefer to be as high up the list as yo
 
 **3. Use Google**
 
-Developing a students Google skills is an important skill so don't be afraid to ask them to Google to find the answer. The whole problem solving process is important. A great way to encourage this is to google things yourself - even if you already know the answer.
+Developing google skills is vital so don't be afraid to ask them to google to find the answer. The whole problem solving process is important. A great way to model this is to google things yourself - even if you already know the answer.
 
-**4. Let the student think**
+**4. Let them think**
 
-Prolonged silences may feel awkward but giving the student enough time to think and work through a problem is critical. Don't be afraid to step away for a moment or focus on the next task while the student continues to work. 
+Prolonged silences may feel awkward but giving people enough time to think and work through a problem is critical. Don't be afraid to step away for a moment while they work the problem. 
 
-If the student is taking a long time, try to guide them through questioning - rather than through facts - to reach the solution they are working towards.
+If the trainee is taking a very long time, try to guide them through questioning - rather than through facts - to reach the solution they are working towards.
 
 **5. Be Logical**
 
-A key skill that you can impart on a student is to be deeply logical and encouraging them to inspect every line of their code. You should be engaged and always ask questions such as “what does that line of code do?”, or “who calls this function?”.
+Be deeply logical and talk as you carefully inspect every line of the code together. Ask questions like  “what does that line of code do?”,  “who calls this function?”., "what will this function return?"  
+  
+It's common for trainees to skip around when reading problem descriptions, and have trouble interpreting the requirements. Walk through the question slowly together and ask questions like "what is the _first_ thing this question asks me to do?" or "what kind of input is this expecting?" 
 
 **6. Reject Self-Response**
 
@@ -208,13 +210,13 @@ When offering technical support try not to let yourself fall into the trap of
 
 > "Right, we've covered map functions, do you think you understand everything we just did" ... "Yes"
 
-Students will always want to seem like the understand and may be afraid of letting you down. Instead try to probe for understanding, for example
+Trainees will always want to seem like they understand and may be afraid of letting you down. Instead try to probe for understanding:
 
 > "Right, we've covered map functions, can you tell me what this part inside the parenthesis are doing?" ... "Yes, it's converting a String into a Number"
 
 **7. Be Public**
 
-You should always try to have these calls in public Slack channels \(if the student is comfortable\) so that multiple students can benefit from your work. It also normalises the idea of having public calls with other students.
+Alway try to have these calls in public Slack channels so that multiple trainees can benefit from your work. It also normalises the idea of having public calls with other trainees.
 
 It's okay to be explicit about the focus of a call. Saying things like "We're focusing on using `map` and `forEach` - we can cover other topics if we have time.", or "I'm going to be focusing on working with Amalia - others are welcome to join, but she has priority".
 
@@ -224,9 +226,9 @@ At times it may be frustrating or tiring - it's hard work! Try to remember what 
 
 ### Getting Help
 
-First and foremost - you should remember that you are not alone with your students. If you are struggling to find the time to commit to your students reach out on Slack and in your Team Calls to find more people to help. 
+First and foremost - you should remember that you are not alone with your trainees. If you are struggling to find the time to commit to your team reach out on Slack and in your Team Calls to find more people to help. 
 
-If your students are all struggling with a similar concept it's important to share this on Slack, not only does this help build a culture of open learning, it also invites more people to get involved in the discussion.
+If your trainees are all struggling with a similar concept it's important to share this on Slack, not only does this help build a culture of open learning, it also invites more people to get involved in the discussion.
 
 ## Supplementary Material
 
@@ -264,7 +266,7 @@ _Time: ~2 hours_
 
 Technical mentoring is a skill like any other that can be developed through practice and critical, constructive feedback.
 
-As a pair, setup a mentoring session with a group of students. One person should spend twenty minutes working with the students on the challenges that they are facing. The other person should take notes and feedback on the session, After twenty minutes, swap roles and continue with the exercise.
+As a pair, setup a mentoring session with a group of trainees. One person should spend twenty minutes working with the trainees on the challenges that they are facing. The other person should take notes and feedback on the session, After twenty minutes, swap roles and continue with the exercise.
 
 For the mentor, try to keep in mind everything that we've cover in this session. You'll make mistakes but don't worry! It's all in the process.
 
@@ -276,13 +278,13 @@ After the session, feedback your notes to each other.
 
 _Time: 30 minutes_
 
-Next time you speak to your student spend some time working out what motivates them and what they want to get from the course. Try to find out
+Next time you speak to your trainee spend some time working out what motivates them and what they want to get from the course. Try to find out
 
 1. Why are they doing the course?
 2. Why do they want to be a programmer?
 3. What do they think their biggest challenges are to becoming a programmer?
 
-Answering these questions will make it easier for you to tailor your mentoring to your students
+Answering these questions will make it easier for you to tailor your mentoring to the individuals you are working with.
 
 ## Feedback
 
