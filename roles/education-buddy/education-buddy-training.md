@@ -21,9 +21,9 @@ Here are areas that you will need to have before starting this training. You sho
 
 It is important to learn about this because
 
-* We want you to have the best experience possible at an Education Buddy
+* We want you to have the best experience possible as an Education Buddy
 * We want you make best use of yours and your buddies time
-* We want you to be able to transfer the skills your use in your time here to your work life
+* We want you to use the skills you develop at CYF in your own career
 
 ### Learning Objectives
 
@@ -56,38 +56,45 @@ Participants will be able to:
 
 At CodeYourFuture, being a mentor means you have a set of core responsibilities
 
-1. Check in with students at least every two weeks and assess understanding
-2. Check and mark homework that students are submitting
-3. Provide feedback on students to the wider team
+1. Check in at least every two weeks and assess understanding
+2. Code review coursework and projects
+3. Pass feedback from your group to the wider team
 
-As a buddy, you are assigned three students who are your responsibility for. You should try to have calls with them every week or two weeks and check in consistently with them week to week. As a mentor, you are one of the key people who the students can be accountable to - an important role in a course like ours that requires a lot of self study!
+This role is an ongoing commitment you make to three trainees for around three months. 
 
-### Mentoring Sessions
+You are the first point of contact for technical mentorship. For many trainees you will be the first developer they will ever work closely with. Meaningful technical mentorship is the heart of this role. You will build a close, supportive team with your trainees and model code review, accountability, time management and professional behaviour. 
 
-A part of your job as a buddy is to have calls with your students to assess and work out how they're doing in the course. This can be done either as 1-to-1s or group sessions depending on your time commitments, your 
+You will also attend a weekly meeting with your Buddy volunteer team. This meeting is a place to communicate feedback on individual progress, get additional s
+
+### Mentoring Sessions/ Check In
+
+Buddy groups meet every two weeks. \(Some Buddies run standups more often.\) 
+
+In these sessions you will identify blockers and talk/live code through them. You will do code review and give coursework feedback. You will reassure them and empathise with the immense challenge they are facing. It is really really hard! 
+
+You will also facilitate access to resources, including mentoring support, online study resources and access to study groups or peer learning. Developing your trainees to lead their own study groups is a great way to empower them in their own learning.
 
 #### Before The Call
 
 Consider getting [Calend.ly](http://calend.ly) or similar so that students can book in times with you that work for them. This will save a significant amount of time when you are trying to work out a time that works for both of you.
 
-It can be helpful if you take a quick look at the weeks content in the [syllabus](https://syllabus.codeyourfuture.io/) to see what the student has been working on that week.
+Take a quick look at the [syllabus](https://syllabus.codeyourfuture.io/) to see what the student is working on.
 
 #### During Calls
 
-At the highest level when you speak to your students you should
+At the highest level when you speak to your trainees you will
 
-1. Be finding out if they have submitted the homework for that week
-   1. If they haven't - find out why
-2. Find out how challenging they are finding the work
-3. Investigating their understanding of the concepts covered
+1. Hold them accountable to their commitments and goals, mainly around submitting coursework
+2. Find out how challenging they are finding the work and what futher resources and support they need
+3. Check and develop their understanding
 
-As you become more experienced taking mentoring calls you will develop your own style and pacing to the sessions. 
+As you become more experienced you will develop your own style and pacing to the sessions. 
 
-Some ways for you to access understand are to 
+Some ways to check understanding and develop technical skills
 
-* Ask the student to talk through some of their most recent homework
-* Ask the student to add a new small feature to their homework
-* Complete a programming challenge \(many of these can be found in the [the syllabus](https://syllabus.codeyourfuture.io/)\)
+* Ask the trainee to talk through their code
+* Ask the trainee to add a new small feature to their coursework, or refactor something
+* Complete a programming challenge \(many of these can be found in [the syllabus](https://syllabus.codeyourfuture.io/)\)
 
 ### Feeding Back To The Team
 
@@ -166,7 +173,7 @@ It is vitally important that no matter how great the temptation the student shou
 
 **2. You're there to guide - not to tell**
 
-When you are mentoring your role is to help the student get to the solution themselves and not simply complete the 
+When you are mentoring your role is to help the student get to the solution themselves and not simply complete the exercise. There is absolutely no need for you to complete the exercises. There is no CYF hotel desperately waiting for bookings. The point of the work is for the trainee to work the problem and develop their skills.
 
 Actively consider whether you should be:
 
@@ -183,7 +190,7 @@ Each of these has appropriate places, but prefer to be as high up the list as yo
 
 **3. Use Google**
 
-Developing a students Google skills is an important skill so don't be afraid to ask them to Google to find the answer. The whole problem solving process is important.
+Developing a students Google skills is an important skill so don't be afraid to ask them to Google to find the answer. The whole problem solving process is important. A great way to encourage this is to google things yourself - even if you already know the answer.
 
 **4. Let the student think**
 
@@ -217,7 +224,7 @@ At times it may be frustrating or tiring - it's hard work! Try to remember what 
 
 ### Getting Help
 
-First and foremost - you should remember that you are not alone with your students. If you are struggling to find the time to commit to your students reach out on Slack and in your Weekly Calls to find more people to help. 
+First and foremost - you should remember that you are not alone with your students. If you are struggling to find the time to commit to your students reach out on Slack and in your Team Calls to find more people to help. 
 
 If your students are all struggling with a similar concept it's important to share this on Slack, not only does this help build a culture of open learning, it also invites more people to get involved in the discussion.
 

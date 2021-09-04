@@ -30,9 +30,9 @@ It's important to orient yourself to what the trainees have been working on rece
 
 ### Technical Mentoring \(30+ minutes\)
 
-For the areas that the student did not understand try to pick apart what _exactly_ they did not grasp. 
+For the areas that a trainee did not understand try to pick apart what _exactly_ they did not grasp. 
 
-The recommended approach is to use [_Extend & Explain_](https://docs.google.com/presentation/d/1b23cdD2u2difmxSpEulD_KdBUfOiqCNB8TwAs23bHgM/edit#slide=id.g981ead9fdd_1_17) __but you are welcome to use any method you like. 
+A great approach is [_Extend & Explain_](https://docs.google.com/presentation/d/1b23cdD2u2difmxSpEulD_KdBUfOiqCNB8TwAs23bHgM/edit#slide=id.g981ead9fdd_1_17) __but you are welcome to use any method you like. 
 
 You'll find it helpful to take notes. Remember [PEA](education-buddy-training.md#feeding-back-to-the-team)!
 
