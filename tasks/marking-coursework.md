@@ -37,7 +37,7 @@ You can find all of a students open pull requests by using
   
 [https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3A](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AChrisOwen101)${author}
 
-And you can fetch from the GH Search API like this if you want to set up a notification:
+And you can fetch from the [GH Search API](https://docs.github.com/en/rest/reference/search) like this if you want to set up a notification:
 
 [https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}\`](https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}`)
 
@@ -54,21 +54,21 @@ Can you find the homework from these students?
 
 **Be Positive**
 
-Above all else be positive and be kind. Our students want to learn and want to understand.
+Above all else be positive and be kind. Our trainees want to learn and want to understand.
 
-You should pull out small wins from bad code and encourage them to continue and try again. Many of our students suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success.
+You should pull out small wins from bad code and encourage them to continue and try again. Many of our trainees suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success.
 
 If in doubt, consult our [key rules](/volunteers/education/teaching-tips#the-rules).
 
 **Directing to Resources**
 
-If you can tell that a student has been struggling with a particular area of the homework one key way that you can help is to
+If you can tell that someone has been struggling with a particular area of the homework one key way that you can help is to
 
 1. Acknowledge that they have struggled
 2. Re-assure them that many people struggle with such problems
 3. Direct them to an online resource that will help them understand the problem better
 
-We should try to shy away from writing long, complex explanations to students problems. This can be a time sink, especially when great resources already exist. Try to spend as much time directly interacting with your trainees as you can. In other words: talk to them.
+We should try to shy away from writing long, complex explanations to trainee problems. This can be a time sink, especially when great resources already exist. Try to spend as much time directly interacting with your trainees as you can. In other words: **talk to them.**
 
 _Please note_: Do not just link to documentation! Link to a tutorial or guide that explains the documentation.
 
@@ -78,19 +78,19 @@ If the bug is a simple compilation or formatting error it's perfectly fine to su
 
 **Prompting to Ask Questions**
 
-Make every error a teaching moment, mention that you see other students struggling with the same concepts and that asking questions on Slack can be a way to remedy their problems.
+Make every error a teaching moment, mention that you see other people struggling with the same concepts and that asking questions on Slack can be a way to remedy their problems.
 
 **Explaining an Obvious Mental Model Issue**
 
-When a student implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them.
+When a trainee implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them.
 
 If they seem to fundamentally misunderstand a concept then it is best to refer them back to the source material.
 
 **Formatting**
 
-It never hurts to remind the student of the importance of proper formatting and indentation.
+It never hurts to remind the trainee of the importance of proper formatting and indentation. They should have [Prettier](https://prettier.io/docs/en/editors.html) installed in VSCode.
 
-All code that our students write should follow our[ Style Guide](https://syllabus.codeyourfuture.io/guides/code-style-guide). It's ok to remind them to self review this. 
+All code that our trainees write should follow our[ Style Guide](https://syllabus.codeyourfuture.io/guides/code-style-guide). It's ok to remind them to self review this. 
 
 #### Quickly Giving Feedback
 
@@ -102,15 +102,13 @@ The VS Code studio plug-in can help speed up moving between pull requests and ma
 
 It allows you to make comments from directly inside and VS Code and allows each comparison between Pull Requests.
 
-**Github Desktop**
+#### Use the Code Review tools directly on Github
 
-Using Github Desktop makes it easy to see all of the open pull requests for a Repository and move quickly between them.
-
-Simply navigate to the Branch tab at the top of the screen then select the Pull Request tab
+Do code review directly in Github using [the PR tools](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request). This is an important skill to demonstrate to your trainees and a good one to develop yourself if you haven't done this much yourself. There's more [stuff in the main docs ](https://docs.codeyourfuture.io/teams/education/homework-feedback)around this, and you might find this useful: [Google Code Review](https://google.github.io/eng-practices/review/reviewer/speed.html) Guide.
 
 ### **3\) Grading Coursework**
 
-It is important that we track how well the student is doing on course, so we can support each student as an individual and respond effectively to their challenges. This can happen in a variety of places, but there should be one Single Source of Truth \(SSOT\).
+It is important that we track how well someone is doing on the course, so we can support each person as an individual and respond effectively to their challenges. This can happen in a variety of places, but there should be one Single Source of Truth \(SSOT\).
 
 * Class Tracking Spreadsheet
 * Google Classroom
