@@ -139,24 +139,24 @@ You should rank them in order of how useful the comment is to judge how a studen
 
 ### Remedial Tools
 
-If you discover that your student has fallen behind or has struggled to understand some part of the course then you have several tools at your disposal.
+If you discover that your trainee needs more intensive help, you have these main tools.
 
-* **Technical Mentoring -** When you have time, specific Technical Mentoring can be a really impactful way to help your students
-* **Organised Study Groups** - Ask other Buddies if they are running an open study group this week. For most students, dedicated time with a mentor can be a great way to catch up with the course
+* **Technical Mentoring -** When you _have time_, specific Technical Mentoring can be a really impactful way to help your students. Don't overcommit and burn yourself out. Model healthy working practices please!
+* **Organised Study Groups** - Ask other Buddies if they are running an open study group this week. For most people, dedicated time with a mentor is an effective way to catch up with the course
 * **Encouraging Team Work** - The _best_ support a trainee can get is from their fellow trainees. Building and working in teams is essential for our trainees' success. Encourage trainees to set up and lead study groups. You can bring this in gently; it can be scary and hard. Consider setting up the first calls and invite others. Do this in public and lead by example.
-* **Organising a Break Week** - If lots of students have not understood some concepts adding a break week can be good way to make sure that students have enough time to catch up.
+* **Organising a Break Week** - If lots of people have not understood some concepts, then run a consolidation week and give people time and space to catch up. Volunteers are empowered to deliver the course in a way that works for the real, actual people doing it, and that can mean adapting the course.
 
 If a student is struggling with time management and dedicating enough time the course you can try these tools
 
 * **Daily Stand-up** - Ask the trainee to send you a message every morning about their progress over the past day, or create a Slack bot to do this. It's fine for them to say they've done nothing - the aim of this exercise is to build a habit of consistent working - not to shame trainees into working every day. 
-* **Study Plans** - A good tactic is to work with them on a Study Plan that accurately plans out their week. \(It can also be useful to work with their Personal Development Mentor on this plan\)
+* **Study Plans** - A good tactic is to ask your trainees to write a Study Plan to accurately plan out their week. \(It can also be useful to work with their Personal Development Mentor on this plan\).
 
 ```text
 Exercise 3 (10 minutes)
 
 In small groups, let's brainstorm some other ideas of how people can get help if they fall behind.
 
-What other kinds of issues might students have on the course?
+What other kinds of issues might people have on the course?
 
 What techniques have you used in the past?
 ```
