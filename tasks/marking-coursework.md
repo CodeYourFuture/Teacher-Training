@@ -21,7 +21,7 @@ and
 
 * Coding Challenges
 
-At the end of each week, students submit homework these challenges and we give feedback on them. **This feedback is a vital part of our students development.**
+Trainees submit their coursework and we give feedback. **This feedback is a vital part of our trainees' development.**
 
 ## **Technical Mentorship: Process**
 
@@ -29,7 +29,7 @@ At the end of each week, students submit homework these challenges and we give f
 
 Coursework including code is always hosted as a Pull Request on GitHub. 
 
-Every week of the course has some coursework attached to it. Students open a pull request and unit tests are run. You might want to set up [code review assignment](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team) system in your buddy team.  
+Every week of the course has some coursework attached to it. Trainees open a pull request and unit tests are run. You might want to set up [code review assignment](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team) system in your buddy team.  
   
 [Where do students submit coursework?](marking-coursework.md#where-do-students-submit-coursework)
 
@@ -74,7 +74,7 @@ _Please note_: Do not just link to documentation! Link to a tutorial or guide th
 
 **Fixing Bugs**
 
-If the bug is a simple compilation or formatting error it's perfectly fine to suggest a line fix to the issue. For example, an incorrect relative URL is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed.
+If the bug is a simple compilation or formatting error,  [suggest a line fix](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request) to the issue. An incorrect relative URL, for example,  is a simple error that does not imply a deeper misunderstanding of the content and so can be safely fixed. If your trainee persistently makes typos, work with them on error checking in the IDE, rather than cleaning up on Github for them.
 
 **Prompting to Ask Questions**
 
@@ -114,7 +114,7 @@ It is important that we track how well someone is doing on the course, so we can
 * Google Classroom
 * Trello Cards
 
-Please check in with your team to find out where their SSOT is and how best to update it.
+Please check in with your team to find out where your SSOT is, how your team has chosen  and how best to update it.
 
 If you'd like to do more intensive marking with your trainees, there is further reading here:
 
@@ -134,9 +134,9 @@ It is important to track our students in one central location, so information do
 
 Please consult your team as each school approaches this differently.
 
-## Where do students submit coursework?
+## Where do trainees submit coursework?
 
-The most reliable place to find the coursework for each week is on the relevant homework page for each lesson. For example, this is the first lesson for HTML/CSS
+Coursework is listed on the syllabus and the For example, this is the first lesson for HTML/CSS
 
 [https://syllabus.codeyourfuture.io/html-css/week-1/lesson](https://syllabus.codeyourfuture.io/html-css/week-1/lesson)
 
