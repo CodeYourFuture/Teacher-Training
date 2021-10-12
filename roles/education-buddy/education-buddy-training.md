@@ -15,7 +15,7 @@ description: How to be the best Education Buddy you can be
 
 Here are areas that you will need to have before starting this training. You should have
 
-* Some experience being managed or mentored \(i.e. at work\)
+* Some experience being managed or mentored (i.e. at work)
 
 ### Motivation
 
@@ -36,13 +36,13 @@ Participants will be able to:
 
 ### Materials
 
-{% embed url="https://docs.google.com/presentation/d/1b23cdD2u2difmxSpEulD\_KdBUfOiqCNB8TwAs23bHgM" %}
+{% embed url="https://docs.google.com/presentation/d/1b23cdD2u2difmxSpEulD_KdBUfOiqCNB8TwAs23bHgM" %}
 
 ## Lesson
 
 ### What is a Mentor?
 
-```text
+```
  Exercise 1 (5 Minutes)
  ​
  In small groups, discuss 
@@ -57,7 +57,7 @@ Participants will be able to:
 At CodeYourFuture, being a mentor means you have a set of core responsibilities
 
 1. Check in at least every two weeks and assess understanding
-2. Code review coursework and projects
+2. [Code review coursework](https://lab.github.com/githubtraining/reviewing-pull-requests) and projects
 3. Pass feedback from your group to the wider team
 
 This role is an ongoing commitment you make to three trainees for around three months. 
@@ -68,7 +68,7 @@ You will also attend a weekly meeting with your Buddy volunteer team. This meeti
 
 ### Mentoring Sessions/ Check In
 
-Buddy groups meet every two weeks. \(Some Buddies run standups more often.\) 
+Buddy groups meet every two weeks. (Some Buddies run standups more often.) 
 
 In these sessions you will identify blockers and talk/live code through them. You will do code review and give coursework feedback. You will reassure them and empathise with the immense challenge they are facing. This thing we are doing together is really really hard! 
 
@@ -78,7 +78,7 @@ You will also facilitate access to resources, including mentoring support, onlin
 
 Consider getting [Calend.ly](http://calend.ly) or Doodle etc so that your team can book in times with you that work for them. This will save a significant amount of time and faffing around! You might schedule your meeting for the same time each fortnight; it depends what people can reasonably do.
 
-Take a quick look at the [syllabus](https://syllabus.codeyourfuture.io/) to see what the student is working on.
+Take a quick look at the [syllabus](https://syllabus.codeyourfuture.io) to see what the student is working on.
 
 #### During Calls
 
@@ -94,7 +94,7 @@ Some ways to check understanding and develop technical skills
 
 * Ask the trainee to talk through their code
 * Ask the trainee to add a new small feature to their coursework, or refactor something
-* Complete a programming challenge \(look in [the syllabus](https://syllabus.codeyourfuture.io/)\)
+* Complete a programming challenge (look in [the syllabus](https://syllabus.codeyourfuture.io))
 
 ### Feeding Back To The Team
 
@@ -102,7 +102,7 @@ Depending on your team you will decide to meet every week or two weeks to discus
 
 In these sessions try to be as succinct as possible. It will be tempting to spend time talking about people who are doing well but it is important that you also give time to  addressing problems.
 
-In your sessions, try to notice who is struggling in the same ways or in the same areas. Sharing problems \(and solutions\) with the team is wise.
+In your sessions, try to notice who is struggling in the same ways or in the same areas. Sharing problems (and solutions) with the team is wise.
 
 Feedback should be 
 
@@ -118,11 +118,11 @@ This piece of feedback is not precise - which part of the homework are they stru
 
 A better piece of feedback might be 
 
-> NAME has struggled to do the homework because they do not understand functions. They could not work out how to return a variable from a function.
+> NAME has struggled to do the homework because they do not understand functions. They could not work out how to return a variable from a function. 
 
 This is better because we can more easily work out how to help NAME. 
 
-```text
+```
 Exercise 2 (10 Minutes)
 
 In our meetings we need to feedback on our student in an accurate, succinct and precise way.
@@ -141,17 +141,17 @@ You should rank them in order of how useful the comment is to judge how a studen
 
 If you discover that your trainee needs more intensive help, you have these main tools.
 
-* **Technical Mentoring -** When you _have time_, specific Technical Mentoring can be a really impactful way to help your students. Don't overcommit and burn yourself out. Model healthy working practices please!
+* **Technical Mentoring - **When you _have time_, specific Technical Mentoring can be a really impactful way to help your students. Don't overcommit and burn yourself out. Model healthy working practices please!
 * **Organised Study Groups** - Ask other Buddies if they are running an open study group this week. For most people, dedicated time with a mentor is an effective way to catch up with the course
-* **Encouraging Team Work** - The _best_ support a trainee can get is from their fellow trainees. Building and working in teams is essential for our trainees' success. Encourage trainees to set up and lead study groups. You can bring this in gently; it can be scary and hard. Consider setting up the first calls and invite others. Do this in public and lead by example.
+* **Encouraging Team Work** - The_ best_ support a trainee can get is from their fellow trainees. Building and working in teams is essential for our trainees' success. Encourage trainees to set up and lead study groups. You can bring this in gently; it can be scary and hard. Consider setting up the first calls and invite others. Do this in public and lead by example.
 * **Organising a Break Week** - If lots of people have not understood some concepts, then run a consolidation week and give people time and space to catch up. Volunteers are empowered to deliver the course in a way that works for the real, actual people doing it, and that can mean adapting the course.
 
 If a student is struggling with time management and dedicating enough time the course you can try these tools
 
 * **Daily Stand-up** - Ask the trainee to send you a message every morning about their progress over the past day, or create a Slack bot to do this. It's fine for them to say they've done nothing - the aim of this exercise is to build a habit of consistent working - not to shame trainees into working every day. 
-* **Study Plans** - A good tactic is to ask your trainees to write a Study Plan to accurately plan out their week. \(It can also be useful to work with their Personal Development Mentor on this plan\).
+* **Study Plans **- A good tactic is to ask your trainees to write a Study Plan to accurately plan out their week. (It can also be useful to work with their Personal Development Mentor on this plan).
 
-```text
+```
 Exercise 3 (10 minutes)
 
 In small groups, let's brainstorm some other ideas of how people can get help if they fall behind.
@@ -184,7 +184,7 @@ Actively consider whether you should be:
 * Giving the student a high-level instruction 
   * "Let's add a state variable and wire it up to a click handler"
 * Giving the student a low-level instruction 
-  * "On line 7 type '= useState\(0\);'"
+  * "On line 7 type '= useState(0);'"
 
 Each of these has appropriate places, but prefer to be as high up the list as you can.
 
@@ -200,9 +200,9 @@ If the trainee is taking a very long time, try to guide them through questioning
 
 **5. Be Logical**
 
-Be deeply logical and talk as you carefully inspect every line of the code together. Ask questions like  “what does that line of code do?”,  “who calls this function?”., "what will this function return?"  
-  
-It's common for trainees to skip around when reading problem descriptions, and have trouble interpreting the requirements. Walk through the question slowly together and ask questions like "what is the _first_ thing this question asks me to do?" or "what kind of input is this expecting?" 
+Be deeply logical and talk as you carefully inspect every line of the code together. Ask questions like  “what does that line of code do?”,  “who calls this function?”., "what will this function return?"\
+\
+It's common for trainees to skip around when reading problem descriptions, and have trouble interpreting the requirements. Walk through the question slowly together and ask questions like "what is the _first _thing this question asks me to do?" or "what kind of input is this expecting?" 
 
 **6. Reject Self-Response**
 
@@ -254,7 +254,9 @@ _Time: 30 minutes to 5 hours_
 
 This fantastic book is a host of practical advice for teachers and mentors. 
 
-{% file src="../../.gitbook/assets/2a30d7eaa7a77935c6b01ef1b79ff5002107.pdf" caption="Teach Like A Champion \(Condensed\)" %}
+{% file src="../../.gitbook/assets/2a30d7eaa7a77935c6b01ef1b79ff5002107.pdf" %}
+Teach Like A Champion (Condensed)
+{% endfile %}
 
 We also have full copies to send you. Please speak to your lesson coordinator.
 
@@ -262,7 +264,7 @@ The most important chapters - for your use - are Chapter 1 and Chapter 4.
 
 ### Practical
 
-_Time: ~2 hours_
+_Time: \~2 hours_
 
 Technical mentoring is a skill like any other that can be developed through practice and critical, constructive feedback.
 
@@ -289,4 +291,3 @@ Answering these questions will make it easier for you to tailor your mentoring t
 ## Feedback
 
 Feedback on this course can be given directly to Chris Owen or by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLScIDk3RC9szGeMAqx-jfw4kcP_c8inSJqCcO_vf13dQPo_wGw/viewform).
-

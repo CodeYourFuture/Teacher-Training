@@ -20,7 +20,7 @@ Work in small groups to name common student challenges, report back to group.
 
 #### Discussion
 
-\* TODO: link to process for a teacher to follow with code of conduct violations in class \(minor or severe\). It may come up.
+\* TODO: link to process for a teacher to follow with code of conduct violations in class (minor or severe). It may come up.
 
 **Behaviour**
 
@@ -41,7 +41,7 @@ The students might have reasons for...
 
 Here are some possibilities that students may be facing, for you to bear in mind:
 
-\(by no means a comprehensive list\)
+(by no means a comprehensive list)
 
 * uncertainties about their right to stay in the country
 * poor current accommodation
@@ -52,7 +52,7 @@ Here are some possibilities that students may be facing, for you to bear in mind
 * language and cultural difficulties
 * recently faced extremely stressful events
 * kids or other dependants to care for
-* no suitable study environment \(e.g. no quiet, no wifi\)
+* no suitable study environment (e.g. no quiet, no wifi)
 * might not have had a good night's sleep
 * an unstable situation which changes from week to week
 * Language: English might not be their first, second, or third language. It may also appear fine verbally but weak in reading and writing, or vice versa.
@@ -60,7 +60,7 @@ Here are some possibilities that students may be facing, for you to bear in mind
 * Time: The amount of hours each student has available to study may vary wildly. Compare: a young, healthy student with no right to work, no job, and no dependants vs mother of two young kids, with two jobs
 * Experience: The level of experience students have had with the material will vary wildly, within a class:
 * some may have very limited experience with computer basics
-* some may have studied programming at university level \(or even taught related\)
+* some may have studied programming at university level (or even taught related)
 * some may have done a bootcamp before
 
 #### Despite these issues
@@ -82,4 +82,3 @@ As a teacher or teaching assistant it's _not_ your responsibility to investigate
 * celebrate progress where you find it
 * treat others as you would yourself be treated
 * know who you should speak to when you have concerns
-

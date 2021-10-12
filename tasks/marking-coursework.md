@@ -25,23 +25,23 @@ Trainees submit their coursework and we give feedback. **This feedback is a vita
 
 ## **Technical Mentorship: Process**
 
-### **1\) Finding Coursework**
+### **1) Finding Coursework**
 
 Coursework including code is always hosted as a Pull Request on GitHub. 
 
-Every week of the course has some coursework attached to it. Trainees open a pull request and unit tests are run. You might want to set up [code review assignment](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team) system in your buddy team.  
-  
+Every week of the course has some coursework attached to it. Trainees open a pull request and unit tests are run. You might want to set up [code review assignment](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team) system in your buddy team.\
+\
 [Where do students submit coursework?](marking-coursework.md#where-do-students-submit-coursework)
 
-You can find all of a students open pull requests by using  
-  
+You can find all of a students open pull requests by using\
+\
 [https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3A](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AChrisOwen101)${author}
 
 And you can fetch from the [GH Search API](https://docs.github.com/en/rest/reference/search) like this if you want to set up a notification:
 
-[https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}\`](https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}`)
+[https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}\`](https://api.github.com/search/issues?q=is:pr+repo:CodeYourFuture/${repo}/+author:${author}\`)
 
-```text
+```
 Exercise 1 (5 minutes)
 
 Can you find the homework from these students? 
@@ -50,7 +50,7 @@ Can you find the homework from these students?
 2) All of ChrisOwen101's open pull requests
 ```
 
-### **2\) Giving Feedback**
+### **2) Giving Feedback**
 
 **Be Positive**
 
@@ -58,7 +58,7 @@ Above all else be positive and be kind. Our trainees want to learn and want to u
 
 You should pull out small wins from bad code and encourage them to continue and try again. Many of our trainees suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success.
 
-If in doubt, consult our [key rules](/volunteers/education/teaching-tips#the-rules).
+If in doubt, consult our [key rules](https://app.gitbook.com/volunteers/education/teaching-tips#the-rules).
 
 **Directing to Resources**
 
@@ -106,9 +106,9 @@ It allows you to make comments from directly inside and VS Code and allows each 
 
 Do code review directly in Github using [the PR tools](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request). This is an important skill to demonstrate to your trainees and a good one to develop yourself if you haven't done this much yourself. There's more [stuff in the main docs ](https://docs.codeyourfuture.io/teams/education/homework-feedback)around this, and you might find this useful: [Google Code Review](https://google.github.io/eng-practices/review/reviewer/speed.html) Guide.
 
-### **3\) Grading Coursework**
+### **3) Grading Coursework**
 
-It is important that we track how well someone is doing on the course, so we can support each person as an individual and respond effectively to their challenges. This can happen in a variety of places, but there should be one Single Source of Truth \(SSOT\).
+It is important that we track how well someone is doing on the course, so we can support each person as an individual and respond effectively to their challenges. This can happen in a variety of places, but there should be one Single Source of Truth (SSOT).
 
 * Class Tracking Spreadsheet
 * Google Classroom
@@ -122,13 +122,13 @@ If you'd like to do more intensive marking with your trainees, there is further 
 
 
 
-### **4\) Label the Pull Request**
+### **4) Label the Pull Request**
 
 When you have given feedback it is important you add the label "_**reviewed**_".
 
 If the homework has not been completed you should also add the tag "_**not-completed**_" 
 
-### **5\) Tracking progress**
+### **5) Tracking progress**
 
 It is important to track our students in one central location, so information doesn't get lost and so we can see who needs help and with what. Most commonly, you will do this in a Google Spreadsheet. 
 
@@ -143,6 +143,4 @@ Coursework is listed on the syllabus and the For example, this is the first less
 And here is the relevant coursework
 
 [https://syllabus.codeyourfuture.io/html-css/week-1/homework](https://syllabus.codeyourfuture.io/html-css/week-1/homework)
-
-
 

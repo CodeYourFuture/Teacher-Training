@@ -22,17 +22,19 @@ To take part in this training you are expected to
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/1cnVCT6zxoxT1s4IMu90XvXep33ydPa0yIO8w6EMDM9Y/edit?usp=sharing" caption="https://docs.google.com/presentation/d/1cnVCT6zxoxT1s4IMu90XvXep33ydPa0yIO8w6EMDM9Y/edit" %}
+{% embed url="https://docs.google.com/presentation/d/1cnVCT6zxoxT1s4IMu90XvXep33ydPa0yIO8w6EMDM9Y/edit?usp=sharing" %}
+https://docs.google.com/presentation/d/1cnVCT6zxoxT1s4IMu90XvXep33ydPa0yIO8w6EMDM9Y/edit
+{% endembed %}
 
 
 
 
 
-## Training <a id="docs-internal-guid-39b630af-7fff-3699-365c-27123d2f9a26"></a>
+## Training <a href="docs-internal-guid-39b630af-7fff-3699-365c-27123d2f9a26" id="docs-internal-guid-39b630af-7fff-3699-365c-27123d2f9a26"></a>
 
 ### The Pedagogy of CodeYourFuture
 
-#### 1\) Communitised Learning
+#### 1) Communitised Learning
 
 Our lessons are community events
 
@@ -40,32 +42,32 @@ Our lessons are community events
 * We use lots of people to provide individual support
 * We promote group based activities
 
-#### 2\) Anti-Lecture Lesson Structure
+#### 2) Anti-Lecture Lesson Structure
 
-The taught content can \(and should\) take the form of a variety of techniques including
+The taught content can (and should) take the form of a variety of techniques including
 
 * Taught examples
 * Live coding
 * Group Discussions
 * Videos, Case Studies
 
-#### 3\) Fear Reducing Lessons
+#### 3) Fear Reducing Lessons
 
 The aims of our lessons are too
 
 * Prepare our students for their coursework
 * Introduce new concepts in a managed and pedagogically satisfactory way
-* Provide support and community for the students \(and for you!\)
+* Provide support and community for the students (and for you!)
 
 ### Your Journey with CodeYourFuture
 
-![](../.gitbook/assets/untitled-2020-10-23-1334-3-.png)
+![](../.gitbook/assets/Untitled-2020-10-23-1334\(3\).png)
 
 ### Education Team Roles
 
 At it's highest level the mission of the Education Team is to 
 
-> Create an inclusive learning community that communitises failure, encourages growth through challenge and provides support to those that need it most.
+> Create an inclusive learning community that communitises failure, encourages growth through challenge and provides support to those that need it most. 
 
 In practically what this means is the course services that we provide to our students
 
@@ -83,11 +85,11 @@ These tasks are broadly separated into roles undertaken by different people at d
 
 #### Exercise 
 
-Take a look at the Google Sheet below.   
-  
+Take a look at the Google Sheet below. \
+\
 In it, you'll find a column of tasks that members of the Education Team undertake and a row of roles at CodeYourFuture.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1xRlXoQktyIx0-YOb-UZWGm8sFuVUl2MHC8mXnv1vC70/edit\#gid=128160130" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1xRlXoQktyIx0-YOb-UZWGm8sFuVUl2MHC8mXnv1vC70/edit#gid=128160130" %}
 
 1. Split into Groups
 2. One person, create a Copy of this Google Sheet
@@ -107,15 +109,15 @@ On your journey to becoming a volunteer at CodeYourFuture you will recieve acces
 If you haven't already we ask you to
 
 * Set your name as your real name
-* Set your display picture as picture of you \(or a cartoon picture of you if you'd prefer\)
+* Set your display picture as picture of you (or a cartoon picture of you if you'd prefer)
 
-In addition to the normal rules of Slack \(e.g. use Threads, don't use @channel, etc \) we operate on a these golden rules
+In addition to the normal rules of Slack (e.g. use Threads, don't use @channel, etc ) we operate on a these golden rules
 
-> _1\) Communicate, coordinate and collaborate in public channels_
+> _1) Communicate, coordinate and collaborate in public channels_
 >
-> _2\) Discuss students in private channels_
+> _2) Discuss students in private channels_
 >
-> _3\) Do not use direct messages \(were possible\)_
+> _3) Do not use direct messages (were possible)_
 
 We're a large and growing organisation where information needs to flow smoothly - it's one of our key challenges. By communicating in direct messages or in private channels it makes it really hard for people to stay up to date why the schools. 
 
@@ -123,13 +125,13 @@ With that said there are some recommended channel that you join. Firstly, you sh
 
 For example, if you are attending in the West Midlands you would want to join
 
-> westmidlands, westmidlands-edu, westmidlands-class1
+> westmidlands, westmidlands-edu, westmidlands-class1 
 
-Any channels with the prefix _cyf-_ are global channels. 
+Any channels with the prefix _cyf- _are global channels. 
 
 You will also want to join the public channels associated with the syllabus. Firstly, there is 
 
-> cyf-syllabus
+> cyf-syllabus 
 
 For generic Syllabus discussion 
 
@@ -175,7 +177,7 @@ More details on how classes are run can be found [here](https://docs.codeyourfut
 
 #### What you'll be expected to do?
 
-More details about your role can be found [here]().
+More details about your role can be found [here](broken-reference).
 
 ## Next Steps
 
@@ -190,5 +192,6 @@ More details about your role can be found [here]().
 
 ## Teacher Resources
 
-{% file src="../.gitbook/assets/education-career-journey.json" caption="Excalidraw File for Journey Diagram Above" %}
-
+{% file src="../.gitbook/assets/Education-Career-Journey.json" %}
+Excalidraw File for Journey Diagram Above
+{% endfile %}

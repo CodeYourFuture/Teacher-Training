@@ -10,5 +10,3 @@ This training covers ideas around meta-cognition, the difference between Discove
 
 {% embed url="https://www.youtube.com/watch?v=r2UOIJsQGLU" %}
 
-
-

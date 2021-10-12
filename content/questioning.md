@@ -29,7 +29,7 @@ What does this tell us about the purposes of questioning?
 ### Why do we question?
 
 * We taught it != they learned it
-* We need to make the invisible \(their learning, inside their heads\) visible
+* We need to make the invisible (their learning, inside their heads) visible
 * We should confirm:
   * That they are able to give good answers
   * That they have reliable reasoning processes and mental models to reach those answers
@@ -45,4 +45,3 @@ Correspondingly, question for:
 
 * Factual recall
 * Provoking deep thought
-

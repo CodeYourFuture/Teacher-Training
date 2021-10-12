@@ -24,7 +24,7 @@ To find this training useful a participant should
 
 To prepare for the lesson please read [this section](https://third-bit.com/2019/06/13/marthas-rules.html) of the Teaching Tech Together handbook.
 
-**Before the lesson:** Prepare a three minute presentation \(you don't have to use slides, talking points are good enough\) about something that you learnt from reading this material.
+**Before the lesson:** Prepare a three minute presentation (you don't have to use slides, talking points are good enough) about something that you learnt from reading this material.
 
 ## Lesson
 
@@ -32,11 +32,11 @@ All exercises are graciously taken from [Teaching Tech Together](https://teachto
 
 ### Learning Objectives Exercise
 
-#### Classify Learning Objectives \(pairs/10 minutes\) <a id="classify-learning-objectives-pairs10"></a>
+#### Classify Learning Objectives (pairs/10 minutes) <a href="classify-learning-objectives-pairs10" id="classify-learning-objectives-pairs10"></a>
 
 Look at the example learning objectives for an introductory course on HTML and CSS below and classify each according to Bloom’s Taxonomy. Compare your answers with those of your partner. Where did you agree and disagree?
 
-```text
+```
 Explain what CSS properties are and how CSS selectors work.
 
 Style a web page using common tags and CSS properties.
@@ -52,7 +52,7 @@ Describe your two favorite online sources of information about CSS and explain w
 
 ### PETE Exercise
 
-#### \(individual/15 minutes\) <a id="pete-individual15"></a>
+#### (individual/15 minutes) <a href="pete-individual15" id="pete-individual15"></a>
 
 One pattern that works well for programming lessons is PETE: introduce the **P**roblem, work through an **E**xample, explain the **T**heory, and then **E**laborate on a second example so that learners can see what is specific to each case and what applies to all cases. 
 
@@ -62,11 +62,10 @@ Then discuss with the team on what you've created.
 
 ### PRIMM Exercise
 
-**\(individual/15 minutes\)**
+**(individual/15 minutes)**
 
-Another lesson pattern is PRIMM - **P**redict a program’s behaviour or output, **R**un it to see what it actually does, **I**nvestigate why it does that by stepping through it in a debugger or drawing the flow of control, **M**odify it \(or its inputs\), and then **M**ake something similar from scratch. 
+Another lesson pattern is PRIMM - **P**redict a program’s behaviour or output, **R**un it to see what it actually does, **I**nvestigate why it does that by stepping through it in a debugger or drawing the flow of control, **M**odify it (or its inputs), and then **M**ake something similar from scratch. 
 
 Pick something you have recently taught or been taught and outline a short lesson for it that follows these five steps.
 
 Then discuss with the team on what you've created.
-

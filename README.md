@@ -23,14 +23,13 @@ This is a living document. Expect it to change and grow over time. If you'd like
 * Docs
   * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
 * Personal Development
-  * [https://personaldevelopment.codeyourfuture.io](https://personaldevelopment.codeyourfuture.io/)
+  * [https://personaldevelopment.codeyourfuture.io](https://personaldevelopment.codeyourfuture.io)
 
 ## Useful Resources
 
 * Teaching Tech Together
-  * [https://teachtogether.tech/](https://teachtogether.tech/)
+  * [https://teachtogether.tech/](https://teachtogether.tech)
 
 ## Editing this Website
 
-This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Coordinator.
-
+This website is hosted on [Gitbook](https://www.gitbook.com). To get edit access, please speak to a CodeYourFuture Coordinator.
